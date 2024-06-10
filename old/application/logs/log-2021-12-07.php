@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-12-07 00:34:13 --> 404 Page Not Found: Wp-configphp/index
+ERROR - 2021-12-07 01:46:59 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-12-07 01:47:00 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-12-07 01:47:01 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-12-07 01:47:01 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-12-07 01:47:02 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-12-07 01:47:02 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-12-07 01:47:03 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-12-07 01:47:03 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-12-07 01:47:04 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2021-12-07 01:47:04 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-12-07 01:47:05 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-12-07 01:47:05 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-12-07 01:47:06 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-12-07 01:47:06 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2021-12-07 01:47:07 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-12-07 01:47:07 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-12-07 01:47:08 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-12-07 01:47:09 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-12-07 04:16:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-07 11:30:04 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2021-12-07 11:30:04 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2021-12-07 11:30:04 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2021-12-07 18:20:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-12-07 18:20:42 --> 404 Page Not Found: Public/images
+ERROR - 2021-12-07 18:27:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-12-07 18:27:37 --> 404 Page Not Found: Public/images
+ERROR - 2021-12-07 21:13:14 --> 404 Page Not Found: Wp-admin/css
+ERROR - 2021-12-07 21:21:08 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-12-07 23:39:38 --> 404 Page Not Found: Robotstxt/index

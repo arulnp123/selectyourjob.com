@@ -1,0 +1,121 @@
+Project,Cabinets,Parts,File-1,File-2,Length,Width,Grain,Qty,Material,thickness,Edge_L-1,Edge_L2,Edge_w-1,Edge_w-2
+Rajagopal,Cylinder_Cab,Top,10036328.cix,,1596,397.2,0,1,Black_SF,18,2_Colour,8_Dado,2_Colour,2_Colour
+Rajagopal,Cylinder_Cab,Left Side,10036329.cix,,881.2,373.4,1,1,HMR_donnar_Oak_18,18,8_colour,8_Dado,,8_colour
+Rajagopal,Cylinder_Cab,Right Side,10036330.cix,,881.2,373.4,1,1,HMR_donnar_Oak_18,18,8_colour,8_Dado,,8_colour
+Rajagopal,Cylinder_Cab,Back_1,10036331.cix,,780,986.2,0,1,HMR_9_White,9,,,,
+Rajagopal,Cylinder_Cab,Back_2,10036332.cix,,890,485.8,0,1,HMR_9_White,9,,,,
+Rajagopal,Cylinder_Cab,Fixed Shelf [1],10036333.cix,10036334.cix,973.2,373.4,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,Cylinder_Cab,Mobile Shelf [1],10036335.cix,,972.2,310.2,0,1,HMR_white_BSL_18,18,8_colour,,,
+Rajagopal,Cylinder_Cab,Vertical Division [1],10036336.cix,10036337.cix,882,373.4,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,Cylinder_Cab,Double-Back 1 [1],10036338.cix,,40,1500.2,1,1,HMR_donnar_Oak_18,18,,,,
+Rajagopal,Cylinder_Cab,Double-Back 1 [2],10036339.cix,,40,508.8,1,1,HMR_donnar_Oak_18,18,,,,
+Rajagopal,Cylinder_Cab,Door 1/bin/1.5-3 (Single) [1],10036340.cix,,593.5,494.3,1,1,HMR_donnar_Oak_18,18,2_Colour,2_Colour,45_deg,2_Colour
+Rajagopal,Cylinder_Cab,Door 4/no hardware (Single) [1],10036341.cix,,102.8,993.9,1,1,HMR_donnar_Oak_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+Rajagopal,Cylinder_Cab,Door 4/no hardware (Single) [2],10036342.cix,,102.8,493.6,1,1,HMR_donnar_Oak_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+Rajagopal,Cylinder_Cab,Door 1/bin/1.5-3 (Double) [1]_1,10036343.cix,,746.5,494.3,1,1,HMR_donnar_Oak_18,18,2_Colour,2_Colour,45_deg,2_Colour
+Rajagopal,Cylinder_Cab,Door 1/bin/1.5-3 (Double) [1]_2,10036344.cix,,746.5,494.3,1,1,HMR_donnar_Oak_18,18,2_Colour,2_Colour,45_deg,2_Colour
+Rajagopal,Cylinder_Cab,Draw_30 [1],10036345.cix,,123.5,494.3,1,1,HMR_donnar_Oak_18,18,2_Colour,2_Colour,45_deg,2_Colour
+Rajagopal,Cylinder_Cab,Left Side Draw_30 [1],10036346.cix,,331,89.4,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,Cylinder_Cab,Right Side Draw_30 [1],10036347.cix,,331,89.4,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,Cylinder_Cab,Bottom Draw_30 [1],10036348.cix,,427.4,311,0,1,HMR_9_White,9,,,,
+Rajagopal,Cylinder_Cab,Back Draw_30 [1],10036349.cix,,411.4,89.4,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,Cylinder_Cab,Counter-Frontage Draw_30 [1],10036350.cix,,411.4,89.4,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,Cylinder_Cab,Filler 1 [1],10036351.cix,,882,50,1,1,HMR_donnar_Oak_18,18,,,,
+Rajagopal,Cylinder_Cab,Filler 1 [2],10036352.cix,,882,50,1,1,HMR_donnar_Oak_18,18,,,,
+Rajagopal,kidsBr_Loft,Top1,10036353.cix,,1164,73.4,0,1,HMR_white_BSL_18,18,8_colour,8_colour,,
+Rajagopal,kidsBr_Loft,Bottom1,10036354.cix,,1163.2,73.4,0,1,HMR_white_BSL_18,18,8_colour,8_colour,,0.8mm
+Rajagopal,kidsBr_Loft,Left Side1,10036355.cix,,748.4,73.4,0,1,HMR_white_BSL_18,18,8_colour,8_colour,8_colour,8_colour
+Rajagopal,kidsBr_Loft,Right Side1,10036356.cix,,749.2,398.4,0,1,HMR_Blue HGL 18mm,18,8_colour,8_colour,8_colour,
+Rajagopal,kidsBr_Loft,Vertical Division [2]1,10036357.cix,,664,73.4,0,1,HMR_white_BSL_18,18,8_colour,8_colour,,
+Rajagopal,kidsBr_Loft,Door 1/bin/1.5-3 (Single) [1]1,10036358.cix,,676.5,403.5,0,1,HMR_Blue HGL 18mm,18,2_Colour,2_Colour,2_Colour,2_Colour
+Rajagopal,kidsBr_Loft,Door 4/no hardware (Single) [1]1,10036359.cix,,63.8,1193,0,1,HMR_Blue HGL 18mm,18,2_Colour,2_Colour,,2_Colour
+Rajagopal,kidsBr_Loft,Door 1/bin/1.5-3 (Double) [1]_11,10036360.cix,,676.5,389.8,0,1,HMR_White HGL,18,2_Colour,2_Colour,2_Colour,2_Colour
+Rajagopal,kidsBr_Loft,Door 1/bin/1.5-3 (Double) [1]_21,10036361.cix,,676.5,389.8,0,1,HMR_White HGL,18,2_Colour,2_Colour,2_Colour,2_Colour
+Rajagopal,kidsBr_Loft1,Top2,10036362.cix,,1064,73.4,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,kidsBr_Loft1,Bottom2,10036363.cix,,1250.4,398.4,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,8_colour,0.8mm
+Rajagopal,kidsBr_Loft1,Left Side2,10036364.cix,,731.2,73.4,0,1,HMR_white_BSL_18,18,8_colour,8_colour,8_colour,
+Rajagopal,kidsBr_Loft1,Right Side2,10036365.cix,,730.4,73.4,0,1,HMR_white_BSL_18,18,8_colour,8_colour,8_colour,8_colour
+Rajagopal,kidsBr_Loft1,Vertical Division [2]2,10036366.cix,,664,73.4,0,1,HMR_white_BSL_18,18,8_colour,8_colour,,
+Rajagopal,kidsBr_Loft1,Door 1/bin/1.5-3 (Single) [1]2,10036367.cix,,676.5,361.8,0,1,HMR_White HGL,18,2_Colour,2_Colour,2_Colour,2_Colour
+Rajagopal,kidsBr_Loft1,Door 4/no hardware (Single) [1]2,10036368.cix,,63.8,1093,0,1,HMR_Blue HGL 18mm,18,2_Colour,2_Colour,,2_Colour
+Rajagopal,kidsBr_Loft1,Door 1/bin/1.5-3 (Double) [1]_12,10036369.cix,,676.5,360.6,0,1,HMR_Blue HGL 18mm,18,2_Colour,2_Colour,2_Colour,2_Colour
+Rajagopal,kidsBr_Loft1,Door 1/bin/1.5-3 (Double) [1]_22,10036370.cix,,676.5,360.6,0,1,HMR_Blue HGL 18mm,18,2_Colour,2_Colour,2_Colour,2_Colour
+Rajagopal,kidsBr_Loft1,Filler 1 [1]2,10036371.cix,,746,68,0,1,HMR_Blue HGL 18mm,18,,2_Colour,2_Colour,2_Colour
+Rajagopal,Kidsbr_study_Stand,Left Side3,10036372.cix,,198.4,198.4,0,1,HMR_Blue HGL 18mm,18,8_colour,8_colour,8_colour,8_colour
+Rajagopal,Kidsbr_study_Stand,Back3,10036373.cix,,200,282,0,1,HMR_Blue HGL 18mm,18,,,,
+Rajagopal,Kidsbr_study_table,Top4,10036374.cix,,896,395.5,0,1,HMR_Blue HGL 18mm,18,2_Colour,2_Colour,2_Colour,2_Colour
+Rajagopal,Kidsbr_study_table,Left Side4,10036375.cix,,731.2,377.9,0,1,HMR_White HGL,18,8_colour,8_Dado,,8_colour
+Rajagopal,Kidsbr_study_table,Right Side4,10036376.cix,,731.2,377.9,0,1,HMR_White HGL,18,8_colour,8_Dado,,8_colour
+Rajagopal,Kidsbr_study_table,Back4,10036377.cix,,630,312.5,0,1,HMR_9_White,9,,,,
+Rajagopal,Kidsbr_study_table,Fixed Shelf [1]4,10036378.cix,10036379.cix,296.5,377.9,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,Kidsbr_study_table,Mobile Shelf [1]4,10036380.cix,,295.5,314.7,0,1,HMR_white_BSL_18,18,8_colour,,,
+Rajagopal,Kidsbr_study_table,Vertical Division [1]4,10036381.cix,10036382.cix,732,378.7,0,1,HMR_White HGL,18,8_colour,,,
+Rajagopal,Kidsbr_study_table,Double-Back 1 [1]4,10036383.cix,,300,539.5,0,1,HMR_white_BSL_18,18,,,,
+Rajagopal,Kidsbr_study_table,Door 1/bin/1.5-3 (Single) [1]4,10036384.cix,,468,326.5,0,1,HMR_Blue HGL 18mm,18,2_Colour,2_Colour,2_Colour,2_Colour
+Rajagopal,Kidsbr_study_table,Door 4/no hardware (Single) [1]4,10036385.cix,,102.8,325.5,0,1,HMR_Blue HGL 18mm,18,2_Colour,2_Colour,2_Colour,2_Colour
+Rajagopal,Kidsbr_study_table,Draw_30 [1]4,10036386.cix,,143.5,326.5,0,1,HMR_white_BSL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+Rajagopal,Kidsbr_study_table,Left Side Draw_30 [1]4,10036387.cix,,335.5,89.4,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,Kidsbr_study_table,Right Side Draw_30 [1]4,10036388.cix,,335.5,89.4,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,Kidsbr_study_table,Bottom Draw_30 [1]4,10036389.cix,,315.5,251.1,0,1,HMR_9_White,9,,,,
+Rajagopal,Kidsbr_study_table,Back Draw_30 [1]4,10036390.cix,,235.1,89.4,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,Kidsbr_study_table,Counter-Frontage Draw_30 [1]4,10036391.cix,,235.1,89.4,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,KidsBr_Wr,Top5,10036392.cix,10036393.cix,1164,395.9,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,KidsBr_Wr,Left Side5,10036394.cix,,2098.4,395.9,0,1,HMR_Blue HGL 18mm,18,8_colour,8_Dado,8_colour,8_colour
+Rajagopal,KidsBr_Wr,Right Side5,10036395.cix,,2098.4,395.9,0,1,HMR_Blue HGL 18mm,18,8_colour,8_Dado,8_colour,8_colour
+Rajagopal,KidsBr_Wr,Back5,10036396.cix,,1980,1180,0,1,HMR_9_White,9,,,,
+Rajagopal,KidsBr_Wr,Fixed Shelf [1]5,10036397.cix,10036398.cix,1164,395.9,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,KidsBr_Wr,Fixed Shelf [2]5,10036399.cix,,382,372.7,0,1,HMR_white_BSL_18,18,8_colour,,,
+Rajagopal,KidsBr_Wr,Mobile Shelf [1]5,10036400.cix,,763,332.7,0,1,HMR_white_BSL_18,18,8_colour,,,
+Rajagopal,KidsBr_Wr,Mobile Shelf [2]5,10036401.cix,,763,332.7,0,1,HMR_white_BSL_18,18,8_colour,,,
+Rajagopal,KidsBr_Wr,Mobile Shelf [3]5,10036402.cix,,763,332.7,0,1,HMR_white_BSL_18,18,8_colour,,,
+Rajagopal,KidsBr_Wr,Mobile Shelf [4]5,10036403.cix,,763,332.7,0,1,HMR_white_BSL_18,18,8_colour,,,
+Rajagopal,KidsBr_Wr,Mobile Shelf [5]5,10036404.cix,,381,332.7,0,1,HMR_white_BSL_18,18,8_colour,,,
+Rajagopal,KidsBr_Wr,Mobile Shelf [6]5,10036405.cix,,381,332.7,0,1,HMR_white_BSL_18,18,8_colour,,,
+Rajagopal,KidsBr_Wr,Mobile Shelf [7]5,10036406.cix,,381,332.7,0,1,HMR_white_BSL_18,18,8_colour,,,
+Rajagopal,KidsBr_Wr,Mobile Shelf [8]5,10036407.cix,,381,332.7,0,1,HMR_white_BSL_18,18,8_colour,,,
+Rajagopal,KidsBr_Wr,Shelf 5/no hardware [1]5,10036408.cix,,764,332.7,0,1,HMR_white_BSL_18,18,8_colour,,,
+Rajagopal,KidsBr_Wr,Vertical Division [1]5,10036409.cix,10036410.cix,1964,372.7,0,1,HMR_white_BSL_18,18,8_colour,,,
+Rajagopal,KidsBr_Wr,Upright 4/no hardware [1]5,10036411.cix,,200,332.7,0,1,HMR_white_BSL_18,18,8_colour,,,
+Rajagopal,KidsBr_Wr,Upright 4/no hardware [2]5,10036412.cix,,200,332.7,0,1,HMR_white_BSL_18,18,8_colour,,,
+Rajagopal,KidsBr_Wr,Upright 4/no hardware [3]5,10036413.cix,,200,332.7,0,1,HMR_white_BSL_18,18,8_colour,,,
+Rajagopal,KidsBr_Wr,Door 1/bin/1.5-3 (Single) [1]5,10036414.cix,,777,403.5,0,1,HMR_White HGL,18,2_Colour,2_Colour,2_Colour,2_Colour
+Rajagopal,KidsBr_Wr,Door 1/bin/1.5-3 (Single) [2]_15,10036415.cix,,878.5,287.5,0,1,Glass_frosted,4,,,,
+Rajagopal,KidsBr_Wr,Door 1/bin/1.5-3 (Single) [2]_25,10036416.cix,,994.5,403.5,0,1,HMR_Blue HGL 18mm,18,2_Colour,2_Colour,2_Colour,2_Colour
+Rajagopal,KidsBr_Wr,Door 4/no hardware (Single) [1]5,10036417.cix,,102.8,1193,0,1,HMR_Blue HGL 18mm,18,2_Colour,2_Colour,2_Colour,2_Colour
+Rajagopal,KidsBr_Wr,Door 1/bin/1.5-3 (Double) [1]_15,10036418.cix,,1985.5,389.8,0,1,HMR_Blue HGL 18mm,18,2_Colour,2_Colour,2_Colour,2_Colour
+Rajagopal,KidsBr_Wr,Door 1/bin/1.5-3 (Double) [1]_25,10036419.cix,,1985.5,389.8,0,1,HMR_White HGL,18,2_Colour,2_Colour,2_Colour,2_Colour
+Rajagopal,KidsBr_Wr,Draw_30 [1]5,10036420.cix,,204,403.5,0,1,HMR_White HGL,18,2_Colour,2_Colour,2_Colour,2_Colour
+Rajagopal,KidsBr_Wr,Draw_30 [2]5,10036421.cix,,193,348,0,1,HMR_white_BSL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+Rajagopal,KidsBr_Wr,Draw_30 [3]5,10036422.cix,,193,348,0,1,HMR_white_BSL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+Rajagopal,KidsBr_Wr,Left Side Draw_30 [1]5,10036423.cix,,353.5,139.4,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,KidsBr_Wr,Left Side Draw_30 [2]5,10036424.cix,,315.5,139.4,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,KidsBr_Wr,Left Side Draw_30 [3]5,10036425.cix,,315.5,139.4,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,KidsBr_Wr,Right Side Draw_30 [1]5,10036426.cix,,353.5,139.4,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,KidsBr_Wr,Right Side Draw_30 [2]5,10036427.cix,,315.5,139.4,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,KidsBr_Wr,Right Side Draw_30 [3]5,10036428.cix,,315.5,139.4,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,KidsBr_Wr,Bottom Draw_30 [1]5,10036429.cix,,336.6,333.5,0,1,HMR_9_White,9,,,,
+Rajagopal,KidsBr_Wr,Bottom Draw_30 [2]5,10036430.cix,,309.6,295.5,0,1,HMR_9_White,9,,,,
+Rajagopal,KidsBr_Wr,Bottom Draw_30 [3]5,10036431.cix,,309.6,295.5,0,1,HMR_9_White,9,,,,
+Rajagopal,KidsBr_Wr,Back Draw_30 [1]5,10036432.cix,,320.6,139.4,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,KidsBr_Wr,Back Draw_30 [2]5,10036433.cix,,293.6,139.4,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,KidsBr_Wr,Back Draw_30 [3]5,10036434.cix,,293.6,139.4,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,KidsBr_Wr,Counter-Frontage Draw_30 [1]5,10036435.cix,,320.6,139.4,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,KidsBr_Wr,Counter-Frontage Draw_30 [2]5,10036436.cix,,293.6,139.4,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,KidsBr_Wr,Counter-Frontage Draw_30 [3]5,10036437.cix,,293.6,139.4,0,1,HMR_white_BSL_18,18,8_colour,8_Dado,,
+Rajagopal,MBR_table,Top6,10036438.cix,,896,396,1,1,HMR_Natural Teak,18,2_Colour,2_Colour,2_Colour,2_Colour
+Rajagopal,MBR_table,Left Side6,10036439.cix,,731.2,373.4,1,1,HMR_Natural Teak,18,8_colour,8_Dado,,8_colour
+Rajagopal,MBR_table,Right Side6,10036440.cix,,731.2,373.4,1,1,HMR_Natural Teak,18,8_colour,8_Dado,,8_colour
+Rajagopal,MBR_table,Back6,10036441.cix,,366,854,1,1,HMR_Natural Teak,18,,,,
+Rajagopal,MBR_table,Vertical Division [1]6,10036442.cix,10036443.cix,150,356.2,1,1,HMR_Natural Teak,18,8_colour,,,
+Rajagopal,MBR_table,Draw_30 [1]6,10036444.cix,,143,439.5,1,1,HMR_Natural Teak,18,2_Colour,2_Colour,2_Colour,2_Colour
+Rajagopal,MBR_table,Draw_30 [2]6,10036445.cix,,143,439.5,1,1,HMR_Natural Teak,18,2_Colour,2_Colour,2_Colour,2_Colour
+Rajagopal,MBR_table,Left Side Draw_30 [1]6,10036446.cix,,337,89.4,1,1,HMR_Natural Teak,18,8_colour,8_Dado,,
+Rajagopal,MBR_table,Left Side Draw_30 [2]6,10036447.cix,,337,89.4,1,1,HMR_Natural Teak,18,8_colour,8_Dado,,
+Rajagopal,MBR_table,Right Side Draw_30 [1]6,10036448.cix,,337,89.4,1,1,HMR_Natural Teak,18,8_colour,8_Dado,,
+Rajagopal,MBR_table,Right Side Draw_30 [2]6,10036449.cix,,337,89.4,1,1,HMR_Natural Teak,18,8_colour,8_Dado,,
+Rajagopal,MBR_table,Bottom Draw_30 [1]6,10036450.cix,,372.6,317,1,1,HMR_Natural Teak,18,,,,
+Rajagopal,MBR_table,Bottom Draw_30 [2]6,10036451.cix,,372.6,317,1,1,HMR_Natural Teak,18,,,,
+Rajagopal,MBR_table,Back Draw_30 [1]6,10036452.cix,,356.6,89.4,1,1,HMR_Natural Teak,18,8_colour,8_Dado,,
+Rajagopal,MBR_table,Back Draw_30 [2]6,10036453.cix,,356.6,89.4,1,1,HMR_Natural Teak,18,8_colour,8_Dado,,
+Rajagopal,MBR_table,Counter-Frontage Draw_30 [1]6,10036454.cix,,356.6,89.4,1,1,HMR_Natural Teak,18,8_colour,8_Dado,,
+Rajagopal,MBR_table,Counter-Frontage Draw_30 [2]6,10036455.cix,,356.6,89.4,1,1,HMR_Natural Teak,18,8_colour,8_Dado,,

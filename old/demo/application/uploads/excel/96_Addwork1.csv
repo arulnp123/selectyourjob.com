@@ -1,0 +1,58 @@
+Project,Cabinets,Parts,File-1,File-2,Length,Width,Grain,Qty,Material,thickness,Edge_L-1,Edge_L2,Edge_w-1,Edge_w-2
+96_Addwork,dres_wall,Top,00085211.cix,00085212.cix,264,199,1,1,HMR_donnar_Oak_18,18,5_Colour,5_Dado,,
+96_Addwork,dres_wall,Bottom,00085213.cix,00085214.cix,264,199,1,1,HMR_donnar_Oak_18,18,5_Colour,5_Dado,,
+96_Addwork,dres_wall,Left Side,00085215.cix,,1399,199,1,1,HMR_donnar_Oak_18,18,5_Colour,5_Dado,5_white,5_white
+96_Addwork,dres_wall,Right Side,00085216.cix,,1399,199,1,1,HMR_donnar_Oak_18,18,5_Colour,5_Dado,5_white,5_white
+96_Addwork,dres_wall,Back,00085217.cix,,1380,280,1,1,HMR_donnar_oak_9,9,,,,
+96_Addwork,dres_wall,Fixed Shelve,00085218.cix,,264,175.5,1,2,HMR_donnar_Oak_18,18,5_white,,,
+96_Addwork,dres_wall,Mobile Shelve,00085219.cix,,264,155.5,1,2,HMR_donnar_Oak_18,18,5_white,,,
+96_Addwork,dres_wall,Door-std (single) [1],00085220.cix,,758,294,1,1,HMR_donnar_Oak_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+96_Addwork,Dresser,Top1,00085221.cix,,796,457.5,1,1,HMR_donnar_Oak_18,18,2_Colour,5_Dado,2_Colour,2_Colour
+96_Addwork,Dresser,Bottom1,00085222.cix,00085223.cix,764,431,1,1,HMR_donnar_Oak_18,18,5_white,5_Dado,,
+96_Addwork,Dresser,Left Side1,00085224.cix,,231.5,431,1,1,HMR_donnar_Oak_18,18,5_white,5_Dado,,5_white
+96_Addwork,Dresser,Right Side1,00085225.cix,,231.5,431,1,1,HMR_donnar_Oak_18,18,5_white,5_Dado,,5_white
+96_Addwork,Dresser,Back1,00085226.cix,,234,784,1,1,HMR_donnar_oak_9,9,,,,
+96_Addwork,Dresser,Dra_slide_40 [1]1,00085227.cix,,226,794,1,1,HMR_donnar_Oak_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+96_Addwork,Dresser,Left Side Dra_slide_40 [1]1,00085228.cix,,369,153.5,0,1,DwrPly,19,5_white,,,
+96_Addwork,Dresser,Right Side Dra_slide_40 [1]1,00085229.cix,,369,153.5,0,1,DwrPly,19,5_white,,,
+96_Addwork,Dresser,Bottom Dra_slide_40 [1]1,00085230.cix,,720.6,370,1,1,HMR_donnar_oak_9,9,,,,
+96_Addwork,Dresser,Back Dra_slide_40 [1]1,00085231.cix,,700.6,153.5,0,1,DwrPly,19,5_white,,,
+96_Addwork,Dresser,Counter-Frontage Dra_slide_40 [1]1,00085232.cix,,738.6,153.5,0,1,DwrPly,19,5_white,,,
+96_Addwork,Istflr_covering,Top2,00085233.cix,00085234.cix,1342,74,0,1,L_F,19,5_Colour,5_Dado,,
+96_Addwork,Istflr_covering,Bottom2,00085235.cix,00085236.cix,1342,74,0,1,L_F,19,5_Colour,5_Dado,,
+96_Addwork,Istflr_covering,Left Side2,00085237.cix,,339,74,0,1,L_F,19,5_Colour,5_Dado,5_white,5_white
+96_Addwork,Istflr_covering,Right Side2,00085238.cix,,339,74,0,1,L_F,19,5_Colour,5_Dado,5_white,5_white
+96_Addwork,Istflr_covering,Vertical Division [1]2,00085239.cix,,302,74.5,0,1,L_F,19,5_white,,,
+96_Addwork,Istflr_covering,Door-std (single) [1]2,00085240.cix,,334,454.5,1,1,HMR_donnar_Oak_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+96_Addwork,Istflr_covering,Door-std (double) [1]_12,00085241.cix,,334,453.7,1,1,HMR_donnar_Oak_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+96_Addwork,Istflr_covering,Door-std (double) [1]_22,00085242.cix,,334,453.7,1,1,HMR_donnar_Oak_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+96_Addwork,Kit_wal_1[1],Top3,00085243.cix,00085244.cix,364,299,1,1,HMR_donnar_Oak_18,18,5_Colour,5_Dado,,
+96_Addwork,Kit_wal_1[1],Bottom3,00085245.cix,00085246.cix,364,299,1,1,HMR_donnar_Oak_18,18,5_Colour,5_Dado,,
+96_Addwork,Kit_wal_1[1],Left Side3,00085247.cix,,599,299,1,1,HMR_donnar_Oak_18,18,5_Colour,5_Dado,5_white,5_white
+96_Addwork,Kit_wal_1[1],Right Side3,00085248.cix,,599,299,1,1,HMR_donnar_Oak_18,18,5_Colour,5_Dado,5_white,5_white
+96_Addwork,Kit_wal_1[1],Back3,00085249.cix,,580,380,1,1,HMR_donnar_oak_9,9,,,,
+96_Addwork,Kit_wal_1[1],Mobile Shelve [1]3,00085250.cix,,364,255.5,1,1,HMR_donnar_Oak_18,18,5_white,,,
+96_Addwork,Kit_wal_1[1],Door-std (single) [1]3,00085251.cix,,594,394,1,1,HMR_donnar_Oak_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+96_Addwork,Kitchen,Top4,00085252.cix,00085253.cix,654,559,1,1,HMR_donnar_Oak_18,18,5_white,5_Dado,,
+96_Addwork,Kitchen,Bottom4,00085254.cix,00085255.cix,654,559,1,1,HMR_donnar_Oak_18,18,5_white,5_Dado,,
+96_Addwork,Kitchen,Left Side4,00085256.cix,,699,559,1,1,HMR_donnar_Oak_18,18,5_white,5_Dado,5_white,5_white
+96_Addwork,Kitchen,Right Side4,00085257.cix,,699,559,1,1,HMR_donnar_Oak_18,18,5_white,5_Dado,5_white,5_white
+96_Addwork,Kitchen,Back4,00085258.cix,,684,674,1,1,HMR_donnar_oak_9,9,,,,
+96_Addwork,Kitchen,Mobile Shelve [1]4,00085259.cix,,653,505.5,1,1,HMR_donnar_Oak_18,18,5_white,,,
+96_Addwork,Kitchen,Door-std (double) [1]_14,00085260.cix,,692,339,1,1,HMR_donnar_Oak_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+96_Addwork,Kitchen,Door-std (double) [1]_24,00085261.cix,,692,339,1,1,HMR_donnar_Oak_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+96_Addwork,shoe rack,Top5,00085262.cix,00085263.cix,1764,299,1,1,HMR_donnar_Oak_18,18,5_Colour,5_Dado,,
+96_Addwork,shoe rack,Bottom5,00085264.cix,00085265.cix,1763.5,299,1,1,HMR_donnar_Oak_18,18,5_Colour,5_Dado,5_white,
+96_Addwork,shoe rack,Left Side5,00085266.cix,,449,299,1,1,HMR_donnar_Oak_18,18,5_Colour,5_Dado,5_white,5_white
+96_Addwork,shoe rack,Right Side5,00085267.cix,,449.5,154,1,1,HMR_donnar_Oak_18,18,5_Colour,5_Dado,5_white,
+96_Addwork,shoe rack,Right Side (Unboxing) [1]5,00085268.cix,00085269.cix,304,183,1,1,HMR_donnar_Oak_18,18,5_Dado,5_Dado,,
+96_Addwork,shoe rack,Back_15,00085270.cix,,320,886,1,1,HMR_donnar_oak_9,9,,,,
+96_Addwork,shoe rack,Back_25,00085271.cix,,320,576,1,1,HMR_donnar_oak_9,9,,,,
+96_Addwork,shoe rack,Back (Unboxing) [1]5,00085272.cix,,320,308,1,1,HMR_donnar_oak_9,9,,,,
+96_Addwork,shoe rack,Mobile Shelve [1]5,00085273.cix,,873,255.5,1,1,HMR_donnar_Oak_18,18,5_white,,,
+96_Addwork,shoe rack,Mobile Shelve [4]5,00085274.cix,,873,255.5,1,1,HMR_donnar_Oak_18,18,5_white,,,
+96_Addwork,shoe rack,Vertical Division [1]5,00085275.cix,00085276.cix,304,299.5,1,1,HMR_donnar_Oak_18,18,5_white,,,
+96_Addwork,shoe rack,Door-std (double) [1]_15,00085277.cix,,334,444,1,1,HMR_donnar_Oak_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+96_Addwork,shoe rack,Door-std (double) [1 2]_25,00085278.cix,,334,444,1,2,HMR_donnar_Oak_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+96_Addwork,shoe rack,Door-std (double) [2]_15,00085279.cix,,334,444,1,1,HMR_donnar_Oak_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+96_Addwork,shoe rack,Plinth 1 [1]5,00085280.cix,,1764,110,1,1,HMR_donnar_Oak_18,18,,,,

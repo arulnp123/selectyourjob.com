@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-11-29 06:47:35 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-11-29 06:47:35 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-11-29 06:47:36 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-11-29 06:47:37 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-11-29 06:47:37 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-11-29 06:47:38 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-11-29 06:47:39 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-11-29 06:47:39 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-11-29 06:47:40 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2021-11-29 06:47:40 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-11-29 06:47:41 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-11-29 06:47:41 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-11-29 06:47:42 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-11-29 06:47:42 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-11-29 06:47:43 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-11-29 06:47:43 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-11-29 06:47:44 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-11-29 07:09:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-29 08:24:04 --> 404 Page Not Found: _profiler/phpinfo
+ERROR - 2021-11-29 18:19:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-11-29 18:19:22 --> 404 Page Not Found: Public/images
+ERROR - 2021-11-29 18:19:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-11-29 18:19:34 --> 404 Page Not Found: Public/images
+ERROR - 2021-11-29 21:19:25 --> 404 Page Not Found: Wp-configphp/index
+ERROR - 2021-11-29 21:30:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-29 21:30:17 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-11-29 21:30:49 --> 404 Page Not Found: Adstxt/index

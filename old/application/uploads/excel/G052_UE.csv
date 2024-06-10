@@ -1,0 +1,342 @@
+G052_UE,IIBR_Loft,Top,10005106.cix,,1075,73.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIBR_Loft,Bottom,10005107.cix,,1075,73.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIBR_Loft,Left Side,10005108.cix,,548.4,73.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,IIBR_Loft,Right Side,10005109.cix,,548.4,73.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,IIBR_Loft,Door-std (Single) [1],10005110.cix,,62,1104,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIBR_Loft,Door-std (Double) [1]_1,10005111.cix,,477,549,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIBR_Loft,Door-std (Double) [1]_2,10005112.cix,,477,549,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIBR_Loft,Filler door [1],10005113.cix,,546,66,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIBR_Loft,Filler door [2],10005114.cix,,546,66,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIBR_WR,Top1,10005115.cix,10005116.cix,1074.5,548.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIBR_WR,Left Side1,10005117.cix,,2098.4,548.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,IIBR_WR,Right Side1,10005118.cix,,2098.4,548.4,1,1,7531-SF_18,18,8_colour,8_Dado,8_colour,8_colour
+G052_UE,IIBR_WR,Back1,10005119.cix,,2090.5,1090.5,0,1,ply_7,6,,,,
+G052_UE,IIBR_WR,Fixed Shelve [1]1,10005120.cix,10005121.cix,1074.5,528.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,IIBR_WR,Mobile Shelve [1]1,10005122.cix,,527.5,488.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,IIBR_WR,Mobile Shelve [2]1,10005123.cix,,527.5,488.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,IIBR_WR,Shelve 5raw [1]1,10005124.cix,,1074.5,488.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,IIBR_WR,Upright 4raw [1]1,10005125.cix,10005126.cix,957.5,488.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,IIBR_WR,Upright 4raw [2]1,10005127.cix,,150,488.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,IIBR_WR,Upright 4raw [3]1,10005128.cix,,150,488.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,IIBR_WR,Door-std (Single) [1]1,10005129.cix,,93.3,1104,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIBR_WR,Door-std (Double) [1]_11,10005130.cix,,1995.8,549,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIBR_WR,Door-std (Double) [1]_21,10005131.cix,,1995.8,549,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIBR_WR,Dra_slide_40 [1]1,10005132.cix,,143,504,0,1,ply18,17.5,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIBR_WR,Dra_slide_40 [2]1,10005133.cix,,143,504,0,1,ply18,17.5,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIBR_WR,Left Side Dra_slide_40 [1]1,10005134.cix,,464.5,89.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIBR_WR,Left Side Dra_slide_40 [2]1,10005135.cix,,464.5,89.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIBR_WR,Right Side Dra_slide_40 [1]1,10005136.cix,,464.5,89.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIBR_WR,Right Side Dra_slide_40 [2]1,10005137.cix,,464.5,89.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIBR_WR,Bottom Dra_slide_40 [1]1,10005138.cix,,466.6,445.5,0,1,ply_7,6,,,,
+G052_UE,IIBR_WR,Bottom Dra_slide_40 [2]1,10005139.cix,,466.6,445.5,0,1,ply_7,6,,,,
+G052_UE,IIBR_WR,Back Dra_slide_40 [1]1,10005140.cix,,450.6,89.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIBR_WR,Back Dra_slide_40 [2]1,10005141.cix,,450.6,89.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIBR_WR,Counter-Frontage Dra_slide_40 [1]1,10005142.cix,,450.6,89.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIBR_WR,Counter-Frontage Dra_slide_40 [2]1,10005143.cix,,450.6,89.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIBR_WR,Filler door [1]1,10005144.cix,,2096,66,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIBR_WR,Filler door [2]1,10005145.cix,,2096,66,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIIBR_Dres_base,Top2,10005146.cix,,597.2,565.2,0,1,Pink-HGL_18,18,2_Colour,8_Dado,8_colour,2_Colour
+G052_UE,IIIBR_Dres_base,Left Side2,10005147.cix,,481.2,538.4,0,1,Pink-HGL_18,18,8_colour,8_Dado,,8_colour
+G052_UE,IIIBR_Dres_base,Right Side2,10005148.cix,,481.2,538.4,0,1,ply18,17.5,8_colour,8_Dado,,8_colour
+G052_UE,IIIBR_Dres_base,Back2,10005149.cix,,490,580.5,0,1,ply_7,6,,,,
+G052_UE,IIIBR_Dres_base,Fixed Shelve [1]2,10005150.cix,,564.5,518.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,IIIBR_Dres_base,Door-std (Single) [1]2,10005151.cix,,93.3,594,0,1,Pink-HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIIBR_Dres_base,Dra_slide_40 [1]_12,10005152.cix,,185.9,594,0,1,Pink-HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIIBR_Dres_base,Dra_slide_40 [1]_22,10005153.cix,,185.9,594,0,1,Pink-HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIIBR_Dres_base,Left Side Dra_slide_40 [1]_12,10005154.cix,,515,130.3,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIIBR_Dres_base,Left Side Dra_slide_40 [1]_22,10005155.cix,,515,121,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIIBR_Dres_base,Right Side Dra_slide_40 [1]_12,10005156.cix,,515,130.3,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIIBR_Dres_base,Right Side Dra_slide_40 [1]_22,10005157.cix,,515,121,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIIBR_Dres_base,Bottom Dra_slide_40 [1]_12,10005158.cix,,520.1,496,0,1,ply_7,6,,,,
+G052_UE,IIIBR_Dres_base,Bottom Dra_slide_40 [1]_22,10005159.cix,,520.1,496,0,1,ply_7,6,,,,
+G052_UE,IIIBR_Dres_base,Back Dra_slide_40 [1]_12,10005160.cix,,504.1,130.3,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIIBR_Dres_base,Back Dra_slide_40 [1]_22,10005161.cix,,504.1,121,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIIBR_Dres_base,Counter-Frontage Dra_slide_40 [1]_12,10005162.cix,,504.1,130.3,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIIBR_Dres_base,Counter-Frontage Dra_slide_40 [1]_22,10005163.cix,,504.1,121,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIIBR_dress,Top3,10005164.cix,10005165.cix,564.5,198.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIIBR_dress,Bottom3,10005166.cix,,564.5,198.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIIBR_dress,Left Side3,10005167.cix,,1398.4,198.4,0,1,Pink-HGL_18,18,8_colour,8_Dado,8_colour,8_colour
+G052_UE,IIIBR_dress,Right Side3,10005168.cix,,1398.4,198.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,IIIBR_dress,Back3,10005169.cix,,1373,580.5,0,1,ply_7,6,,,,
+G052_UE,IIIBR_dress,Mobile Shelve [1]3,10005170.cix,,563.5,158.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,IIIBR_dress,Mobile Shelve [2]3,10005171.cix,,563.5,158.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,IIIBR_dress,Mobile Shelve [3]3,10005172.cix,,563.5,158.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,IIIBR_dress,Door-std (Single) [1]_13,10005173.cix,,1394,594,0,1,Mirror,4,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIIBR_dress,Door-std (Single) [1]_23,10005174.cix,,1394,594,0,1,ply18,17.5,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIIBR_Loft-1,Top4,10005175.cix,,564.5,73.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIIBR_Loft-1,Bottom4,10005176.cix,,631.2,498.4,0,1,Pink-HGL_18,18,8_colour,8_Dado,8_colour,
+G052_UE,IIIBR_Loft-1,Left Side4,10005177.cix,,748.4,498.4,0,1,Pink-HGL_18,18,8_colour,8_Dado,8_colour,8_colour
+G052_UE,IIIBR_Loft-1,Right Side4,10005178.cix,,731.2,73.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,
+G052_UE,IIIBR_Loft-1,Door-std (Single) [1]4,10005179.cix,,677,594,0,1,Pink-HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIIBR_Loft-1,Door-std (Single) [2]4,10005180.cix,,64,1795,0,1,Pink-HGL_18,18,2_Colour,2_Colour,,2_Colour
+G052_UE,IIIBR_Loft-2,Top5,10005181.cix,,1165,73.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIIBR_Loft-2,Bottom5,10005182.cix,,1165,73.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIIBR_Loft-2,Left Side5,10005183.cix,,748.4,73.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,IIIBR_Loft-2,Right Side5,10005184.cix,,748.4,73.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,IIIBR_Loft-2,Door-std (Double) [1]_15,10005185.cix,,677,594,0,1,Pink-HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIIBR_Loft-2,Door-std (Double) [1]_25,10005186.cix,,677,594,0,1,Pink-HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIIBR_Loft-2,Filler door [1]5,10005187.cix,,746,66,0,1,Pink-HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIIBR_WR,Top6,10005188.cix,10005189.cix,1164.5,548.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIIBR_WR,Left Side6,10005190.cix,,2098.4,548.4,0,1,Pink-HGL_18,18,8_colour,8_Dado,8_colour,8_colour
+G052_UE,IIIBR_WR,Right Side6,10005191.cix,,2098.4,548.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,IIIBR_WR,Back6,10005192.cix,,2090.5,1180.5,0,1,ply_7,6,,,,
+G052_UE,IIIBR_WR,Fixed Shelve [1]6,10005193.cix,10005194.cix,1164.5,528.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,IIIBR_WR,Mobile Shelve [1]6,10005195.cix,,572.5,488.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,IIIBR_WR,Mobile Shelve [2]6,10005196.cix,,572.5,488.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,IIIBR_WR,Shelve 5raw [1]6,10005197.cix,,1164.5,488.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,IIIBR_WR,Upright 4raw [1]6,10005198.cix,10005199.cix,957.5,488.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,IIIBR_WR,Upright 4raw [2]6,10005200.cix,,400,488.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,IIIBR_WR,Door-std (Single) [1]6,10005201.cix,,93.3,1194,0,1,Pink-HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIIBR_WR,Door-std (Double) [1]_16,10005202.cix,,1995.8,594,0,1,Pink-HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIIBR_WR,Door-std (Double) [1]_26,10005203.cix,,1995.8,594,0,1,Pink-HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIIBR_WR,Dra_slide_40 [1]_16,10005204.cix,,193.5,549,0,1,ply18,17.5,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIIBR_WR,Dra_slide_40 [1]_26,10005205.cix,,193.5,549,0,1,ply18,17.5,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,IIIBR_WR,Left Side Dra_slide_40 [1]_16,10005206.cix,,464.5,138.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIIBR_WR,Left Side Dra_slide_40 [1]_26,10005207.cix,,464.5,138.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIIBR_WR,Right Side Dra_slide_40 [1]_16,10005208.cix,,464.5,138.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIIBR_WR,Right Side Dra_slide_40 [1]_26,10005209.cix,,464.5,138.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIIBR_WR,Bottom Dra_slide_40 [1]_16,10005210.cix,,511.6,445.5,0,1,ply_7,6,,,,
+G052_UE,IIIBR_WR,Bottom Dra_slide_40 [1]_26,10005211.cix,,511.6,445.5,0,1,ply_7,6,,,,
+G052_UE,IIIBR_WR,Back Dra_slide_40 [1]_16,10005212.cix,,495.6,138.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIIBR_WR,Back Dra_slide_40 [1]_26,10005213.cix,,495.6,138.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIIBR_WR,Counter-Frontage Dra_slide_40 [1]_16,10005214.cix,,495.6,138.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIIBR_WR,Counter-Frontage Dra_slide_40 [1]_26,10005215.cix,,495.6,138.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,IIIBR_WR,Filler door [1]6,10005216.cix,,2096,66,0,1,Pink-HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Kit-W_B,Top7,10005217.cix,10005218.cix,915,298.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Kit-W_B,Bottom7,10005219.cix,10005220.cix,915,298.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Kit-W_B,Left Side7,10005221.cix,,698.4,298.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,Kit-W_B,Right Side7,10005222.cix,,698.4,298.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,Kit-W_B,Back7,10005223.cix,,673,931,0,1,ply_7,6,,,,
+G052_UE,Kit-W_B,Mobile Shelve [1]7,10005224.cix,,914,228.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,Kit-W_B,Door-std (Single) [1]7,10005225.cix,,694,594,1,1,7603_PLS_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Kit-W_B,Door-std (Single) [2]7,10005226.cix,,694,345,0,1,7415_PLS(HGL)_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Kit_1Dr_(FL),Top8,10005227.cix,10005228.cix,365,530.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Kit_1Dr_(FL),Bottom8,10005229.cix,,365,530.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Kit_1Dr_(FL),Left Side8,10005230.cix,,613.4,590.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,Kit_1Dr_(FL),Right Side8,10005231.cix,,613.4,530.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,Kit_1Dr_(FL),Back8,10005232.cix,,588,381,0,1,ply_7,6,,,,
+G052_UE,Kit_1Dr_(FL),Mobile Shelve [1]8,10005233.cix,,364,490.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,Kit_1Dr_(FL),Door-std (Single) [1]8,10005234.cix,,669,394,1,1,7603_PLS_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Kit_1Dr_(FL),Filler door [1]8,10005235.cix,,780,96,1,1,7603_PLS_HGL_18,18,2_Colour,2_Colour,,
+G052_UE,Kit_2Dr_(FR),Top9,10005236.cix,10005237.cix,765,590.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Kit_2Dr_(FR),Bottom9,10005238.cix,,765,590.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Kit_2Dr_(FR),Left Side9,10005239.cix,,613.4,590.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,Kit_2Dr_(FR),Right Side9,10005240.cix,,613.4,590.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,Kit_2Dr_(FR),Back9,10005241.cix,,588,781,0,1,ply_7,6,,,,
+G052_UE,Kit_2Dr_(FR),Mobile Shelve [1]9,10005242.cix,,764,550.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,Kit_2Dr_(FR),Door-std (Double) [1]_19,10005243.cix,,669,394,1,1,7603_PLS_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Kit_2Dr_(FR),Door-std (Double) [1]_29,10005244.cix,,669,394,1,1,7603_PLS_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Kit_2Dr_(FR),Upper Strip 1 [1]9,10005245.cix,,765,60,0,1,L_F,19,,,,
+G052_UE,Kit_2Dr_(FR),Filler door [1]9,10005246.cix,,780,66,1,1,7603_PLS_HGL_18,18,2_Colour,2_Colour,,
+G052_UE,Kit_3Dr_B,Top10,10005247.cix,10005248.cix,1764.5,530.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Kit_3Dr_B,Bottom10,10005249.cix,10005250.cix,1764.5,530.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Kit_3Dr_B,Left Side10,10005251.cix,,673.4,590.4,1,1,7603_PLS_HGL_18,18,8_colour,8_Dado,8_colour,8_colour
+G052_UE,Kit_3Dr_B,Right Side10,10005252.cix,,613.4,530.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,Kit_3Dr_B,Back_110,10005253.cix,,588,1186.4,0,1,ply_7,6,,,,
+G052_UE,Kit_3Dr_B,Back_210,10005254.cix,,588,586.6,0,1,ply_7,6,,,,
+G052_UE,Kit_3Dr_B,Mobile Shelve [1]10,10005255.cix,,577,490.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,Kit_3Dr_B,Mobile Shelve [2]10,10005256.cix,,577,490.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,Kit_3Dr_B,Mobile Shelve [3]10,10005257.cix,,572.6,490.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,Kit_3Dr_B,Vertical Division [1]10,10005258.cix,10005259.cix,580,530.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Kit_3Dr_B,Upright 4raw [1]10,10005260.cix,10005261.cix,580,490.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,Kit_3Dr_B,Door-std (Single) [1]10,10005262.cix,,669,594.3,1,1,7603_PLS_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Kit_3Dr_B,Door-std (Double) [1]_110,10005263.cix,,669,594.3,1,1,7603_PLS_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Kit_3Dr_B,Door-std (Double) [1]_210,10005264.cix,,669,594.3,1,1,7603_PLS_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Kit_3Dr_B,Upper Strip 1 [1]10,10005265.cix,,1764.5,60,0,1,L_F,19,,,,
+G052_UE,Kit_B_C,Top11,10005266.cix,10005267.cix,1115,530.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Kit_B_C,Bottom11,10005268.cix,10005269.cix,1115,530.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Kit_B_C,Left Side11,10005270.cix,,613.4,530.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,Kit_B_C,Right Side11,10005271.cix,,613.4,530.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,Kit_B_C,Back11,10005272.cix,,588,1131,0,1,ply_7,6,,,,
+G052_UE,Kit_B_C,Mobile Shelve [1]11,10005273.cix,,1114,460.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,Kit_B_C,Door-std (Single) [1]11,10005274.cix,,669,594,1,1,7603_PLS_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Kit_B_C,Door-std (Single) [2]11,10005275.cix,,669,545,1,1,7603_PLS_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Kit_PO_Dwr_Cyl[1],Top12,10005276.cix,10005277.cix,1734.5,530.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Kit_PO_Dwr_Cyl[1],Bottom12,10005278.cix,10005279.cix,1344.1,530.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Kit_PO_Dwr_Cyl[1],Left Side12,10005280.cix,,673.4,590.4,1,1,7603_PLS_HGL_18,18,8_colour,8_Dado,8_colour,8_colour
+G052_UE,Kit_PO_Dwr_Cyl[1],Right Side12,10005281.cix,,613.4,530.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,Kit_PO_Dwr_Cyl[1],Back_112,10005282.cix,,588,775.6,0,1,ply_7,6,,,,
+G052_UE,Kit_PO_Dwr_Cyl[1],Back_212,10005283.cix,,588,574,0,1,ply_7,6,,,,
+G052_UE,Kit_PO_Dwr_Cyl[1],Mobile Shelve [3]12,10005284.cix,,572,490.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,Kit_PO_Dwr_Cyl[1],Vertical Division [1]12,10005285.cix,,597.5,530.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Kit_PO_Dwr_Cyl[1],Vertical Division [2]12,10005286.cix,10005287.cix,580,530.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Kit_PO_Dwr_Cyl[1],Vertical Division [3]12,10005288.cix,10005289.cix,580,510.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,Kit_PO_Dwr_Cyl[1],Door-std (Single) [1]12,10005290.cix,,669,393.6,1,1,7603_PLS_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Kit_PO_Dwr_Cyl[1],Door-std (Single) [2]12,10005291.cix,,669,594.3,1,1,7603_PLS_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Kit_PO_Dwr_Cyl[1],Draw_acc [1]_112,10005292.cix,,188,576.5,1,1,7603_PLS_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Kit_PO_Dwr_Cyl[1],Draw_acc [1]_212,10005293.cix,,188,576.5,1,1,7603_PLS_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Kit_PO_Dwr_Cyl[1],Draw_acc [2]12,10005294.cix,,282,576.5,1,1,7603_PLS_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Kit_PO_Dwr_Cyl[1],Draw_acc [3]12,10005295.cix,,669,184.6,1,1,7603_PLS_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Kit_PO_Dwr_Cyl[1],Upper Strip 1 [1]12,10005296.cix,,1734.5,60,0,1,L_F,19,,,,
+G052_UE,Kit_sink_base,Top13,10005297.cix,,565,74,0,1,ply18,17.5,5_Colour,5_Dado,,
+G052_UE,Kit_sink_base,Bottom13,10005298.cix,,565,74,0,1,ply18,17.5,5_Colour,5_Dado,,
+G052_UE,Kit_sink_base,Left Side13,10005299.cix,,614,74,0,1,ply18,17.5,5_Colour,5_Dado,5_white,5_white
+G052_UE,Kit_sink_base,Right Side13,10005300.cix,,614,74,0,1,ply18,17.5,5_Colour,5_Dado,5_white,5_white
+G052_UE,Kit_sink_base,Door-std (Single) [1]13,10005301.cix,,636,594,1,1,7603_PLS_HGL_18,18,2_Colour,2_Colour,2_Colour,G_Profile
+G052_UE,Kit_Wa_1Dr[1],Top14,10005302.cix,10005303.cix,414,298.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Kit_Wa_1Dr[1],Bottom14,10005304.cix,,414,298.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Kit_Wa_1Dr[1],Left Side14,10005305.cix,,698.4,298.4,1,1,7603_PLS_HGL_18,18,8_colour,8_Dado,8_colour,8_colour
+G052_UE,Kit_Wa_1Dr[1],Right Side14,10005306.cix,,698.4,298.4,1,1,7603_PLS_HGL_18,18,8_colour,8_Dado,8_colour,8_colour
+G052_UE,Kit_Wa_1Dr[1],Back14,10005307.cix,,673,430,0,1,ply_7,6,,,,
+G052_UE,Kit_Wa_1Dr[1],Mobile Shelve [1]14,10005308.cix,,413,258.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,Kit_Wa_1Dr[1],Mobile Shelve [2]14,10005309.cix,,413,258.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,Kit_Wa_1Dr[1],Door-std (Single) [1]_114,10005310.cix,,568,318,0,1,Glass_frosted,4,,,,
+G052_UE,Kit_Wa_1Dr[1],Door-std (Single) [1]_214,10005311.cix,,694,444,1,1,7603_PLS_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Kit_Wa_1Dr[R],Top15,10005312.cix,10005313.cix,414.5,298.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Kit_Wa_1Dr[R],Bottom15,10005314.cix,,414.5,298.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Kit_Wa_1Dr[R],Left Side15,10005315.cix,,698.4,298.4,1,1,7603_PLS_HGL_18,18,8_colour,8_Dado,8_colour,8_colour
+G052_UE,Kit_Wa_1Dr[R],Right Side15,10005316.cix,,698.4,298.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,Kit_Wa_1Dr[R],Back15,10005317.cix,,673,430.5,0,1,ply_7,6,,,,
+G052_UE,Kit_Wa_1Dr[R],Mobile Shelve [1]15,10005318.cix,,413.5,258.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,Kit_Wa_1Dr[R],Mobile Shelve [2]15,10005319.cix,,413.5,258.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,Kit_Wa_1Dr[R],Door-std (Single) [1]_115,10005320.cix,,568,318,0,1,Glass_frosted,4,,,,
+G052_UE,Kit_Wa_1Dr[R],Door-std (Single) [1]_215,10005321.cix,,694,444,1,1,7603_PLS_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Kit_Wa_4Dr,Top16,10005322.cix,10005323.cix,2064.5,298.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Kit_Wa_4Dr,Bottom16,10005324.cix,10005325.cix,2064.5,298.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Kit_Wa_4Dr,Left Side16,10005326.cix,,698.4,298.4,0,1,7415_PLS(HGL)_18,18,8_colour,8_Dado,8_colour,8_colour
+G052_UE,Kit_Wa_4Dr,Right Side16,10005327.cix,,698.4,298.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,Kit_Wa_4Dr,Back_116,10005328.cix,,673,1036.5,0,1,ply_7,6,,,,
+G052_UE,Kit_Wa_4Dr,Back_216,10005329.cix,,673,1036.5,0,1,ply_7,6,,,,
+G052_UE,Kit_Wa_4Dr,Mobile Shelve [1]16,10005330.cix,,1022.5,258.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,Kit_Wa_4Dr,Mobile Shelve [2]16,10005331.cix,,1022.5,258.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,Kit_Wa_4Dr,Vertical Division [1]16,10005332.cix,10005333.cix,665,298.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Kit_Wa_4Dr,Door-std (Double) [1]_116,10005334.cix,,694,519.1,0,1,7415_PLS(HGL)_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Kit_Wa_4Dr,Door-std (Double) [1]_216,10005335.cix,,694,519.1,0,1,7415_PLS(HGL)_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Kit_Wa_4Dr,Door-std (Double) [2]_116,10005336.cix,,568,393.4,0,1,Glass_frosted,4,,,,
+G052_UE,Kit_Wa_4Dr,Door-std (Double) [2]_216,10005337.cix,,694,519.4,1,1,7603_PLS_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Kit_Wa_4Dr,Door-std (Double) [2]_316,10005338.cix,,694,519.4,0,1,7415_PLS(HGL)_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Kit_wall_2Dr,Top17,10005339.cix,10005340.cix,1164.5,298.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Kit_wall_2Dr,Bottom17,10005341.cix,10005342.cix,1164.5,298.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Kit_wall_2Dr,Left Side17,10005343.cix,,698.4,298.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,Kit_wall_2Dr,Right Side17,10005344.cix,,698.4,298.4,1,1,7603_PLS_HGL_18,18,8_colour,8_Dado,8_colour,8_colour
+G052_UE,Kit_wall_2Dr,Back_117,10005345.cix,,673,586.5,0,1,ply_7,6,,,,
+G052_UE,Kit_wall_2Dr,Back_217,10005346.cix,,673,586.5,0,1,ply_7,6,,,,
+G052_UE,Kit_wall_2Dr,Mobile Shelve [1]17,10005347.cix,,572.5,258.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,Kit_wall_2Dr,Mobile Shelve [2]17,10005348.cix,,572.5,258.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,Kit_wall_2Dr,Vertical Division [1]17,10005349.cix,10005350.cix,665,298.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Kit_wall_2Dr,Door-std (Single) [1]_117,10005351.cix,,568,468.8,0,1,Glass_frosted,4,,,,
+G052_UE,Kit_wall_2Dr,Door-std (Single) [1]_217,10005352.cix,,694,594.8,1,1,7603_PLS_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Kit_wall_2Dr,Door-std (Single) [2]17,10005353.cix,,694,594.3,0,1,7415_PLS(HGL)_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Kit_wall_2Dr,Filler door [1]17,10005354.cix,,696,66,0,1,C1009,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,LIV_Vanity,Top18,10005355.cix,,799,74,0,1,ply18,17.5,5_Colour,5_Dado,5_white,5_white
+G052_UE,LIV_Vanity,Bottom18,10005356.cix,,799,581,0,1,ply18,18,5_Colour,5_Dado,5_white,5_white
+G052_UE,LIV_Vanity,Vertical Division [1]18,10005357.cix,,554.5,74.5,0,1,ply18,17.5,5_white,,,
+G052_UE,LIV_Vanity,Vertical Division [2]18,10005358.cix,,554.5,74.5,0,1,ply18,17.5,5_white,,,
+G052_UE,LIV_Vanity,Door-std (Single) [1]18,10005359.cix,,664,74.8,1,1,7531-SF_18,18,2_Colour,,2_Colour,2_Colour
+G052_UE,LIV_Vanity,Door-std (Single) [2]18,10005360.cix,,664,74.8,1,1,7531-SF_18,18,,2_Colour,2_Colour,2_Colour
+G052_UE,LIV_Vanity,Door-std (Double) [1]_118,10005361.cix,,664,315.3,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,LIV_Vanity,Door-std (Double) [1]_218,10005362.cix,,664,315.3,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,LIV_Vanity,Upper Strip 1 [1]18,10005363.cix,,800,80,0,1,L_F,19,,,,
+G052_UE,Liv_Vanity_mirror,Door-std (Single) [1]_119,10005364.cix,,594,744,0,1,Mirror,4,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Liv_Vanity_mirror,Door-std (Single) [1]_219,10005365.cix,,594,744,0,1,ply_12,12,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR-LOft_2,Bottom20,10005366.cix,,698.4,498.4,1,1,7531-SF_18,18,8_colour,8_Dado,8_colour,8_colour
+G052_UE,MBR-LOft_2,Left Side20,10005367.cix,,731.2,498.4,1,1,7531-SF_18,18,8_colour,8_Dado,8_colour,
+G052_UE,MBR-LOft_2,Right Side20,10005368.cix,,731.2,498.4,1,1,7531-SF_18,18,8_colour,8_Dado,8_colour,
+G052_UE,MBR-LOft_2,Door-std (Single) [1]20,10005369.cix,,394,594,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_1,Top21,10005370.cix,10005371.cix,1164.5,498.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_1,Left Side21,10005372.cix,,2098.4,498.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,MBR_1,Right Side21,10005373.cix,,2098.4,498.4,1,1,7531-SF_18,18,8_colour,8_Dado,8_colour,8_colour
+G052_UE,MBR_1,Back21,10005374.cix,,2090.5,1180.5,0,1,ply_7,6,,,,
+G052_UE,MBR_1,Fixed Shelve [1]21,10005375.cix,10005376.cix,1164.5,478.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,MBR_1,Mobile Shelve [1]21,10005377.cix,,572.5,438.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,MBR_1,Mobile Shelve [2]21,10005378.cix,,572.5,438.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,MBR_1,Shelve 5raw [1]21,10005379.cix,,1164.5,438.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,MBR_1,Upright 4raw [1]21,10005380.cix,10005381.cix,957.5,438.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,MBR_1,Upright 4raw [2]21,10005382.cix,,150,438.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,MBR_1,Upright 4raw [3]21,10005383.cix,,150,438.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,MBR_1,Door-std (Single) [1]21,10005384.cix,,93.3,1194,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_1,Door-std (Double) [1]_121,10005385.cix,,1995.8,594,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_1,Door-std (Double) [1]_221,10005386.cix,,1995.8,594,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_1,Dra_slide_40 [1]21,10005387.cix,,143,549,0,1,ply18,17.5,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_1,Dra_slide_40 [2]21,10005388.cix,,143,549,0,1,ply18,17.5,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_1,Left Side Dra_slide_40 [1]21,10005389.cix,,414.5,89.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_1,Left Side Dra_slide_40 [2]21,10005390.cix,,414.5,89.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_1,Right Side Dra_slide_40 [1]21,10005391.cix,,414.5,89.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_1,Right Side Dra_slide_40 [2]21,10005392.cix,,414.5,89.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_1,Bottom Dra_slide_40 [1]21,10005393.cix,,511.6,395.5,0,1,ply_7,6,,,,
+G052_UE,MBR_1,Bottom Dra_slide_40 [2]21,10005394.cix,,511.6,395.5,0,1,ply_7,6,,,,
+G052_UE,MBR_1,Back Dra_slide_40 [1]21,10005395.cix,,495.6,89.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_1,Back Dra_slide_40 [2]21,10005396.cix,,495.6,89.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_1,Counter-Frontage Dra_slide_40 [1]21,10005397.cix,,495.6,89.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_1,Counter-Frontage Dra_slide_40 [2]21,10005398.cix,,495.6,89.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_1,Filler door [1]21,10005399.cix,,2096,66,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_2,Top22,10005400.cix,10005401.cix,1164,498.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_2,Left Side22,10005402.cix,,2098.4,498.4,1,1,7531-SF_18,18,8_colour,8_Dado,8_colour,8_colour
+G052_UE,MBR_2,Right Side22,10005403.cix,,2098.4,498.4,1,1,7531-SF_18,18,8_colour,8_Dado,8_colour,8_colour
+G052_UE,MBR_2,Back22,10005404.cix,,2090.5,1180,0,1,ply_7,6,,,,
+G052_UE,MBR_2,Fixed Shelve [1]22,10005405.cix,10005406.cix,1164,478.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,MBR_2,Mobile Shelve [1]22,10005407.cix,,572.3,438.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,MBR_2,Mobile Shelve [2]22,10005408.cix,,572.3,438.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,MBR_2,Mobile Shelve [3]22,10005409.cix,,572.3,438.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,MBR_2,Shelve 5raw [1]22,10005410.cix,,1164,438.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,MBR_2,Upright 4raw [1]22,10005411.cix,10005412.cix,957.5,438.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,MBR_2,Upright 4raw [2]22,10005413.cix,,150,438.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,MBR_2,Door-std (Single) [1]22,10005414.cix,,93.3,1194,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_2,Door-std (Double) [1]_122,10005415.cix,,1995.8,594,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_2,Door-std (Double) [1]_222,10005416.cix,,1995.8,594,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_2,Dra_slide_40 [1]22,10005417.cix,,143,548.8,0,1,ply18,17.5,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_2,Left Side Dra_slide_40 [1]22,10005418.cix,,414.5,89.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_2,Right Side Dra_slide_40 [1]22,10005419.cix,,414.5,89.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_2,Bottom Dra_slide_40 [1]22,10005420.cix,,511.4,395.5,0,1,ply_7,6,,,,
+G052_UE,MBR_2,Back Dra_slide_40 [1]22,10005421.cix,,495.4,89.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_2,Counter-Frontage Dra_slide_40 [1]22,10005422.cix,,495.4,89.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_Dre_B,Top23,10005423.cix,,598.4,525.2,1,1,7531-SF_18,18,2_Colour,8_Dado,8_colour,8_colour
+G052_UE,MBR_Dre_B,Left Side23,10005424.cix,10005425.cix,481.2,498.4,0,1,ply18,17.5,8_colour,8_Dado,,8_colour
+G052_UE,MBR_Dre_B,Right Side23,10005426.cix,10005427.cix,481.2,498.4,0,1,ply18,17.5,8_colour,8_Dado,,8_colour
+G052_UE,MBR_Dre_B,Back23,10005428.cix,,490,581,0,1,ply_7,6,,,,
+G052_UE,MBR_Dre_B,Fixed Shelve [1]23,10005429.cix,,565,478.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,MBR_Dre_B,Door-std (Single) [1]23,10005430.cix,,93.3,594,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_Dre_B,Dra_slide_40 [1]_123,10005431.cix,,185.9,594,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_Dre_B,Dra_slide_40 [1]_223,10005432.cix,,185.9,594,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_Dre_B,Left Side Dra_slide_40 [1]_123,10005433.cix,,475,130.3,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_Dre_B,Left Side Dra_slide_40 [1]_223,10005434.cix,,475,121,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_Dre_B,Right Side Dra_slide_40 [1]_123,10005435.cix,,475,130.3,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_Dre_B,Right Side Dra_slide_40 [1]_223,10005436.cix,,475,121,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_Dre_B,Bottom Dra_slide_40 [1]_123,10005437.cix,,520.6,456,0,1,ply_7,6,,,,
+G052_UE,MBR_Dre_B,Bottom Dra_slide_40 [1]_223,10005438.cix,,520.6,456,0,1,ply_7,6,,,,
+G052_UE,MBR_Dre_B,Back Dra_slide_40 [1]_123,10005439.cix,,504.6,130.3,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_Dre_B,Back Dra_slide_40 [1]_223,10005440.cix,,504.6,121,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_Dre_B,Counter-Frontage Dra_slide_40 [1]_123,10005441.cix,,504.6,130.3,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_Dre_B,Counter-Frontage Dra_slide_40 [1]_223,10005442.cix,,504.6,121,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_Dress,Top24,10005443.cix,10005444.cix,565,198.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_Dress,Bottom24,10005445.cix,,565,198.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_Dress,Left Side24,10005446.cix,,1398.4,198.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,MBR_Dress,Right Side24,10005447.cix,,1398.4,198.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,MBR_Dress,Back24,10005448.cix,,1373,581,0,1,ply_7,6,,,,
+G052_UE,MBR_Dress,Mobile Shelve [1]24,10005449.cix,,564,158.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,MBR_Dress,Mobile Shelve [2]24,10005450.cix,,564,158.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,MBR_Dress,Mobile Shelve [3]24,10005451.cix,,564,158.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,MBR_Dress,Door-std (Single) [1]_124,10005452.cix,,1394,594,0,1,Mirror,4,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_Dress,Door-std (Single) [1]_224,10005453.cix,,1394,594,0,1,ply18,17.5,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_Loft-1,Top25,10005454.cix,,1165,73.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_Loft-1,Bottom25,10005455.cix,,1165,73.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_Loft-1,Left Side25,10005456.cix,,748.4,73.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,MBR_Loft-1,Right Side25,10005457.cix,,748.4,73.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,MBR_Loft-1,Door-std (Single) [1]25,10005458.cix,,62,1194,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_Loft-1,Door-std (Double) [1]_125,10005459.cix,,677,594,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_Loft-1,Door-std (Double) [1]_225,10005460.cix,,677,594,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_Loft-1,Filler door [1]25,10005461.cix,,746,66,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_Loft-3,Top26,10005462.cix,,1165,73.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_Loft-3,Bottom26,10005463.cix,,1165,73.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_Loft-3,Left Side26,10005464.cix,,748.4,73.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,MBR_Loft-3,Right Side26,10005465.cix,,748.4,73.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,MBR_Loft-3,Door-std (Single) [1]26,10005466.cix,,62,1194,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_Loft-3,Door-std (Double) [1]_126,10005467.cix,,677,594,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_Loft-3,Door-std (Double) [1]_226,10005468.cix,,677,594,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_Loft-4,Top27,10005469.cix,,1395,73.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_Loft-4,Bottom27,10005470.cix,,1395,73.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,MBR_Loft-4,Left Side27,10005471.cix,,748.4,73.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,MBR_Loft-4,Right Side27,10005472.cix,,748.4,73.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,MBR_Loft-4,Vertical Division [1]27,10005473.cix,10005474.cix,715,74.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,MBR_Loft-4,Door-std (Single) [1]27,10005475.cix,,62,1424,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_Loft-4,Door-std (Single) [2]27,10005476.cix,,677,471.4,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_Loft-4,Door-std (Double) [1]_127,10005477.cix,,677,470.8,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_Loft-4,Door-std (Double) [1]_227,10005478.cix,,677,470.8,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,MBR_Loft-4,Filler door [1]27,10005479.cix,,746,66,1,1,7531-SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+G052_UE,Utility_Cab,Top28,10005480.cix,10005481.cix,564.5,298.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Utility_Cab,Bottom28,10005482.cix,,564.5,298.4,0,1,ply18,17.5,8_colour,8_Dado,,
+G052_UE,Utility_Cab,Left Side28,10005483.cix,,598.4,298.4,1,1,7603_PLS_HGL_18,18,8_colour,8_Dado,8_colour,8_colour
+G052_UE,Utility_Cab,Right Side28,10005484.cix,,598.4,298.4,0,1,ply18,17.5,8_colour,8_Dado,8_colour,8_colour
+G052_UE,Utility_Cab,Back28,10005485.cix,,573,580.5,0,1,ply_7,6,,,,
+G052_UE,Utility_Cab,Mobile Shelve [1]28,10005486.cix,,563.5,258.2,0,1,ply18,17.5,8_colour,,,
+G052_UE,Utility_Cab,Door-std (Single) [1]28,10005487.cix,,594,594,1,1,7603_PLS_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour

@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-10-07 11:37:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-07 12:49:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-07 15:46:29 --> 404 Page Not Found: Public/images
+ERROR - 2021-10-07 16:07:27 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-10-07 16:44:13 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-10-07 16:46:03 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-10-07 16:52:31 --> 404 Page Not Found: Public/images
+ERROR - 2021-10-07 18:04:16 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-10-07 18:04:16 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-10-07 18:04:17 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-10-07 18:04:17 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-10-07 18:04:17 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-10-07 18:04:18 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-10-07 18:04:18 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-10-07 18:04:18 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-10-07 18:04:18 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2021-10-07 18:04:19 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-10-07 18:04:19 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-10-07 18:04:19 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-10-07 18:04:20 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-10-07 18:04:20 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-10-07 18:04:20 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-10-07 18:04:21 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-10-07 18:04:21 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-10-07 18:08:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-10-07 18:08:45 --> 404 Page Not Found: Public/images
+ERROR - 2021-10-07 18:08:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-10-07 18:08:59 --> 404 Page Not Found: Public/images
+ERROR - 2021-10-07 18:19:42 --> 404 Page Not Found: Env/index
+ERROR - 2021-10-07 18:19:43 --> 404 Page Not Found: Wp-content/index
+ERROR - 2021-10-07 18:34:18 --> 404 Page Not Found: Wp-loginphp/index

@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-11-27 05:17:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-27 05:32:15 --> 404 Page Not Found: Public/images
+ERROR - 2021-11-27 07:44:19 --> 404 Page Not Found: Ofc/php-ofc-library
+ERROR - 2021-11-27 09:28:21 --> 404 Page Not Found: Wordpress/index
+ERROR - 2021-11-27 09:28:22 --> 404 Page Not Found: Wp/index
+ERROR - 2021-11-27 09:28:22 --> 404 Page Not Found: WP/index
+ERROR - 2021-11-27 09:28:23 --> 404 Page Not Found: Wp2/index
+ERROR - 2021-11-27 09:28:23 --> 404 Page Not Found: Old/index
+ERROR - 2021-11-27 09:28:23 --> 404 Page Not Found: Oldsite/index
+ERROR - 2021-11-27 09:28:24 --> 404 Page Not Found: New/index
+ERROR - 2021-11-27 09:28:24 --> 404 Page Not Found: Wp-old/index
+ERROR - 2021-11-27 09:28:24 --> 404 Page Not Found: 2020/index
+ERROR - 2021-11-27 09:28:24 --> 404 Page Not Found: 2019/index
+ERROR - 2021-11-27 09:28:25 --> 404 Page Not Found: 2018/index
+ERROR - 2021-11-27 09:28:26 --> 404 Page Not Found: Backup/index
+ERROR - 2021-11-27 09:28:26 --> 404 Page Not Found: Test/index
+ERROR - 2021-11-27 09:28:27 --> 404 Page Not Found: Bc/index
+ERROR - 2021-11-27 09:28:28 --> 404 Page Not Found: Www/index
+ERROR - 2021-11-27 09:28:28 --> 404 Page Not Found: 2021/index
+ERROR - 2021-11-27 09:28:28 --> 404 Page Not Found: Main/index
+ERROR - 2021-11-27 09:28:29 --> 404 Page Not Found: Old-site/index
+ERROR - 2021-11-27 09:28:29 --> 404 Page Not Found: Bk/index
+ERROR - 2021-11-27 09:28:29 --> 404 Page Not Found: Bak/index
+ERROR - 2021-11-27 09:28:29 --> 404 Page Not Found: Sitio/index
+ERROR - 2021-11-27 09:28:29 --> 404 Page Not Found: Bac/index
+ERROR - 2021-11-27 09:28:30 --> 404 Page Not Found: Sito/index
+ERROR - 2021-11-27 09:28:30 --> 404 Page Not Found: Site/index
+ERROR - 2021-11-27 09:55:24 --> 404 Page Not Found: _profiler/phpinfo
+ERROR - 2021-11-27 16:16:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-27 18:11:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-11-27 18:11:07 --> 404 Page Not Found: Public/images
+ERROR - 2021-11-27 18:16:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-11-27 18:16:30 --> 404 Page Not Found: Public/images

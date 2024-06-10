@@ -1,0 +1,20 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-05-08 04:33:50 --> Severity: Notice --> Undefined index: modular /home1/pocketfurniture/public_html/system/database/drivers/pdo/pdo_result.php 244
+ERROR - 2019-05-08 04:33:50 --> Severity: Warning --> Invalid argument supplied for foreach() /home1/pocketfurniture/public_html/system/database/drivers/pdo/pdo_result.php 244
+ERROR - 2019-05-08 04:33:50 --> Severity: Notice --> Undefined variable: _name /home1/pocketfurniture/public_html/system/database/drivers/pdo/pdo_result.php 260
+ERROR - 2019-05-08 04:33:50 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home1/pocketfurniture/public_html/system/core/Exceptions.php:271) /home1/pocketfurniture/public_html/system/helpers/url_helper.php 564
+ERROR - 2019-05-08 04:33:50 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2019-05-08 04:33:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-05-08 09:14:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-05-08 09:14:46 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2019-05-08 09:14:49 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2019-05-08 09:33:01 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2019-05-08 15:32:15 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2019-05-08 15:32:15 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2019-05-08 16:01:53 --> 404 Page Not Found: Beta/wp-content
+ERROR - 2019-05-08 16:01:53 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2019-05-08 18:00:51 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2019-05-08 18:00:51 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2019-05-08 18:01:16 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2019-05-08 18:01:17 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so: cannot open shared object file: No such file or directory Unknown 0

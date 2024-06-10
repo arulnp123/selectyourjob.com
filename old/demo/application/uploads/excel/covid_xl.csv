@@ -1,0 +1,14 @@
+covid,Covid_collection_booth[1],Top,10024892.cix,10024893.cix,864,1180.4,0,1,HMR_BSL_white,18,8_colour,8_Dado,,
+covid,Covid_collection_booth[1],Bottom,10024894.cix,,864,1163.2,0,1,HMR_BSL_white,18,8_colour,,,
+covid,Covid_collection_booth[1],Left Side,10024895.cix,,2098.4,1180.4,0,1,HMR_BSL_white,18,8_colour,8_Dado,8_colour,8_colour
+covid,Covid_collection_booth[1],Right Side,10024896.cix,,2098.4,1180.4,0,1,HMR_BSL_white,18,8_colour,8_Dado,8_colour,8_colour
+covid,Covid_collection_booth[1],Fixed Shelve [1],10024897.cix,,862.4,330.4,0,1,HMR_BSL_white,18,8_colour,,8_colour,8_colour
+covid,Covid_collection_booth[1],Double-Back_box [1],10024898.cix,,773.4,862.4,0,1,HMR_BSL_white,18,8_colour,8_colour,8_colour,8_colour
+covid,Covid_collection_booth[1],Double-Back Door [1]_1,10024899.cix,,198.4,862.4,0,1,HMR_BSL_white,18,8_colour,8_colour,8_colour,8_colour
+covid,Covid_collection_booth[1],Double-Back Door [1]_2,10024900.cix,,580,862.4,0,1,Glass_10,10,8_colour,8_colour,,
+covid,Covid_collection_booth[1],Double-Back Door [1]_3,10024901.cix,,248.4,862.4,0,1,HMR_BSL_white,18,8_colour,8_colour,8_colour,8_colour
+covid,Covid_collection_booth[1],Double-Back Door [1]_4,10024902.cix,,258.2,862.4,0,1,Glass_10,10,8_colour,8_colour,,8_colour
+covid,Covid_collection_booth[1],Double-Back Door [2],10024903.cix,,83.4,882.4,0,1,HMR_BSL_white,18,8_colour,8_colour,8_colour,8_colour
+covid,Covid_collection_booth[1],Door-std (Double) [1]_1,10024904.cix,,2045,294,0,1,HMR_BSL_white,18,2_Colour,2_Colour,2_Colour,2_Colour
+covid,Covid_collection_booth[1],Door-std (Double) [1]_2,10024905.cix,,2045,594,0,1,HMR_BSL_white,18,2_Colour,2_Colour,2_Colour,2_Colour
+covid,Covid_collection_booth[1],Plinth_dr [1],10024906.cix,,862.4,73.4,0,1,HMR_BSL_white,18,8_colour,8_colour,8_colour,8_colour

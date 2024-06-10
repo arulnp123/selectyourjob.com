@@ -1,0 +1,333 @@
+I145_UE,Filler_MBR,Filler_1,00080493.cix,,746,66,0,1,4858_18_twistweave,18,2_Colour,,2_Colour,2_Colour
+I145_UE,Filler_MBR,Filler_2,00080494.cix,,1984,66,0,1,4858_18_twistweave,18,2_Colour,,2_Colour,2_Colour
+I145_UE,Filler_MBR_loft,Filler1,00080495.cix,,746,66,0,1,4858_18_twistweave,18,2_Colour,,2_Colour,2_Colour
+I145_UE,II_BR_loft,Top2,00080496.cix,,1199,74,0,1,L_F,19,5_Colour,5_Dado,5_white,5_white
+I145_UE,II_BR_loft,Bottom2,00080497.cix,,1199,581,1,1,classic_walnut,18,5_Colour,5_Dado,5_white,5_white
+I145_UE,II_BR_loft,Vertical Division [1]2,00080498.cix,,713,74.5,0,1,L_F,19,5_white,,,
+I145_UE,II_BR_loft,Vertical Division [2]2,00080499.cix,,713,74.5,0,1,L_F,19,5_white,,,
+I145_UE,II_BR_loft,Door-std (single) [1]2,00080500.cix,,744,55.5,1,1,classic_walnut,18,2_Colour,,2_Colour,2_Colour
+I145_UE,II_BR_loft,Door-std (single) [2]2,00080501.cix,,744,55.5,1,1,classic_walnut,18,,2_Colour,2_Colour,2_Colour
+I145_UE,II_BR_loft,Door-std (double) [1]_12,00080502.cix,,744,534.5,1,1,classic_walnut,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,II_BR_loft,Door-std (double) [1]_22,00080503.cix,,744,534.5,1,1,classic_walnut,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kids_BR_filler,Filler_13,00080504.cix,,766,66,0,1,105_sf_18,18,2_Colour,,2_Colour,2_Colour
+I145_UE,Kids_BR_filler,Filler_23,00080505.cix,,1984,66,0,1,105_sf_18,18,2_Colour,,2_Colour,2_Colour
+I145_UE,Kids_BR_Loft-2,Top4,00080506.cix,,1882,74,0,1,L_F,19,5_Colour,5_Dado,,
+I145_UE,Kids_BR_Loft-2,Bottom4,00080507.cix,,1999,549,0,1,105_sf_18,18,5_Colour,5_Dado,5_white,5_white
+I145_UE,Kids_BR_Loft-2,Left Side4,00080508.cix,,751.5,74,0,1,L_F,19,5_Colour,5_Dado,5_white,
+I145_UE,Kids_BR_Loft-2,Right Side4,00080509.cix,,751.5,74,0,1,L_F,19,5_Colour,5_Dado,5_white,
+I145_UE,Kids_BR_Loft-2,Vertical Division [1]4,00080510.cix,,733,74.5,0,1,L_F,19,5_white,,,
+I145_UE,Kids_BR_Loft-2,Vertical Division [2]4,00080511.cix,00080512.cix,733,74.5,0,1,L_F,19,5_white,,,
+I145_UE,Kids_BR_Loft-2,Door-std (single) [1]4,00080513.cix,,47,1924.8,0,1,105_sf_18,18,2_Colour,2_Colour,,2_Colour
+I145_UE,Kids_BR_Loft-2,Door-std (single)4,00080514.cix,,713,354.3,0,2,105_sf_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kids_BR_Loft-2,Door-std (double) [1]_14,00080515.cix,,713,593.8,0,1,Wh_SF,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kids_BR_Loft-2,Door-std (double) [1]_24,00080516.cix,,713,593.8,0,1,Wh_SF,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kids_dre_Bas,Top5,00080517.cix,,896,570.5,0,1,Wh_SF,18,2_Colour,5_Dado,2_Colour,2_Colour
+I145_UE,Kids_dre_Bas,Bottom5,00080518.cix,00080519.cix,866,549,0,1,ply18,17,5_Wenge,5_Dado,,
+I145_UE,Kids_dre_Bas,Left Side5,00080520.cix,,517.5,549,0,1,ply18,17,5_Wenge,5_Dado,,5_white
+I145_UE,Kids_dre_Bas,Right Side5,00080521.cix,,517.5,549,0,1,ply18,17,5_Wenge,5_Dado,,5_white
+I145_UE,Kids_dre_Bas,Back5,00080522.cix,,411,886,0,1,ply_7,6,,,,
+I145_UE,Kids_dre_Bas,Drawer 4/550 [1]5,00080523.cix,,198,894,0,2,105_sf_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kids_dre_Bas,Side Drawer 4/550 [1]_15,00080524.cix,,497,143.5,0,2,ply18,17,5_white,,,
+I145_UE,Kids_dre_Bas,Side Drawer 4/550 [1]_25,00080525.cix,,497,126.5,0,2,ply18,17,5_white,,,
+I145_UE,Kids_dre_Bas,Bottom Drawer 4/550 [1]5,00080526.cix,,806.6,480,0,2,ply_7,6,,,,
+I145_UE,Kids_dre_Bas,Back Drawer 4/550 [1]_15,00080527.cix,,806.6,143.5,0,1,ply18,17,5_white,,,
+I145_UE,Kids_dre_Bas,Back Drawer 4/550 [1]_25,00080528.cix,,806.6,126.5,0,1,ply18,17,5_white,,,
+I145_UE,Kids_dre_Bas,Counter-Frontage Drawer 4/550 [1]_15,00080529.cix,,840.6,143.5,0,1,ply18,17,5_white,,,
+I145_UE,Kids_dre_Bas,Counter-Frontage Drawer 4/550 [1]_25,00080530.cix,,840.6,126.5,0,1,ply18,17,5_white,,,
+I145_UE,Kids_dre_Bas,Plinth 1 [1]5,00080531.cix,,884,110,0,1,105_sf_18,18,,,,
+I145_UE,Kids_Dres_open,Right Side6,00080532.cix,,1563,196,0,1,105_SF_bsl_18,18,2_Colour,2_Colour,5_white,5_white
+I145_UE,Kids_Dres_open,Fixed Shelve6,00080533.cix,,282,180,0,4,105_SF_bsl_18,18,2_Colour,,,
+I145_UE,Kids_Dres_open,Double-Back 1 [1]6,00080534.cix,00080535.cix,1564,282,0,1,105_sf_18,18,,,,
+I145_UE,Kids_dresser_W,Top7,00080536.cix,,564,172.5,0,1,ply18,17,5_white,,,
+I145_UE,Kids_dresser_W,Bottom7,00080537.cix,,564,194,0,1,ply18,17,5_white,5_Dado,,
+I145_UE,Kids_dresser_W,Left Side7,00080538.cix,,1363,194,1,1,7585_Kip_wd,18,5_white,5_Dado,5_white,5_white
+I145_UE,Kids_dresser_W,Right Side7,00080539.cix,,1363,194,0,1,105_sf_18,18,5_white,5_Dado,5_white,5_white
+I145_UE,Kids_dresser_W,Back7,00080540.cix,,1357,584,0,1,ply_7,7,,,,
+I145_UE,Kids_dresser_W,Mobile Shelve7,00080541.cix,,564,162.5,0,4,ply18,17,5_white,,,
+I145_UE,Kids_dresser_W,Door-std (single) [1]_17,00080542.cix,,1160,594,0,1,Miror,6,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kids_dresser_W,Door-std (single) [1]_27,00080543.cix,,1160,594,0,1,ply18,17,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kids_dresser_W,Door-std (single)7,00080544.cix,,93,594,0,2,105_sf_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kids_dresser_W,Plinth 1 [1]7,00080545.cix,,599,200,0,1,105_sf_18,18,,,,
+I145_UE,Kids_loft-1,Top8,00080546.cix,,1230.5,74,0,1,L_F,19,5_Colour,5_Dado,,5_white
+I145_UE,Kids_loft-1,Bottom8,00080547.cix,,1230.5,74,0,1,L_F,19,5_Colour,5_Dado,,5_white
+I145_UE,Kids_loft-1,Left Side8,00080548.cix,,732,74,0,1,L_F,19,5_Colour,5_Dado,,
+I145_UE,Kids_loft-1,Right Side8,00080549.cix,,769,74,0,1,L_F,19,5_Colour,5_Dado,5_white,5_white
+I145_UE,Kids_loft-1,Vertical Division [1]8,00080550.cix,00080551.cix,731,74.5,0,1,L_F,19,5_white,,,
+I145_UE,Kids_loft-1,Door-std (single) [1]8,00080552.cix,,713.5,594.5,0,1,105_sf_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kids_loft-1,Door-std (single) [2]8,00080553.cix,,713.5,594.5,0,1,105_sf_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kids_loft-1,Door 1/bin/1.5-3 (single) [2]8,00080554.cix,,45.5,1194,0,1,105_sf_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kids_loft-3,Top9,00080555.cix,,899,74,0,1,L_F,19,5_Colour,5_Dado,5_white,5_white
+I145_UE,Kids_loft-3,Bottom9,00080556.cix,,899,581,0,1,105_sf_18,18,5_Colour,5_Dado,5_white,5_white
+I145_UE,Kids_loft-3,Vertical Division [1]9,00080557.cix,,713,74.5,0,1,L_F,19,5_white,,,
+I145_UE,Kids_loft-3,Vertical Division [2]9,00080558.cix,,713,74.5,0,1,L_F,19,5_white,,,
+I145_UE,Kids_loft-3,Door-std (single) [1]9,00080559.cix,,744,55.5,0,1,105_sf_18,18,2_Colour,,2_Colour,2_Colour
+I145_UE,Kids_loft-3,Door-std (single) [2]9,00080560.cix,,744,55.5,0,1,105_sf_18,18,,2_Colour,2_Colour,2_Colour
+I145_UE,Kids_loft-3,Door-std (double) [1]_19,00080561.cix,,744,384.5,0,1,105_sf_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kids_loft-3,Door-std (double) [1]_29,00080562.cix,,744,384.5,0,1,105_sf_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kids_WR,Top10,00080563.cix,00080564.cix,1231.5,549,0,1,ply18,17,5_Colour,5_Dado,,5_white
+I145_UE,Kids_WR,Bottom10,00080565.cix,00080566.cix,1165,528,0,1,ply18,17,5_Colour,5_Dado,,
+I145_UE,Kids_WR,Left Side10,00080567.cix,00080568.cix,2082.5,549,0,1,ply18,17,5_Colour,5_Dado,,5_white
+I145_UE,Kids_WR,Right Side10,00080569.cix,,2099,549,0,1,105_sf_18,18,5_Colour,5_Dado,5_white,5_white
+I145_UE,Kids_WR,Back10,00080570.cix,,1983,1185,0,1,ply_7,6,,,,
+I145_UE,Kids_WR,Fixed Shelve [1]10,00080571.cix,,1165,528.5,0,1,ply18,17,5_white,,,
+I145_UE,Kids_WR,Mobile Shelve10,00080572.cix,,600,478.5,0,2,ply18,17,5_white,,,
+I145_UE,Kids_WR,Shelve 5raw [1]10,00080573.cix,00080574.cix,1165,478.5,0,1,ply18,17,5_white,,,
+I145_UE,Kids_WR,Shelve 5raw [2]_110,00080575.cix,,1165,74.5,0,1,ply18,17,0.5 white,,,
+I145_UE,Kids_WR,Shelve 5raw [2]_210,00080576.cix,,1165,74,0,1,ply18,17,5_white,0.5 white,,
+I145_UE,Kids_WR,Vertical Division [1]10,00080577.cix,00080578.cix,382,528.5,0,1,ply18,17,5_white,,,
+I145_UE,Kids_WR,Upright 4raw [1]10,00080579.cix,00080580.cix,150,478.5,0,1,ply18,17,5_white,,,
+I145_UE,Kids_WR,Upright 4raw [2]10,00080581.cix,,150,478.5,0,1,ply18,17,5_white,,,
+I145_UE,Kids_WR,Upright 4raw [3]10,00080582.cix,,150,478.5,0,1,ply18,17,5_white,,,
+I145_UE,Kids_WR,Upright 4raw [4]10,00080583.cix,00080584.cix,1050,478.5,0,1,ply18,17,5_white,,,
+I145_UE,Kids_WR,Door-std (double) [1]_110,00080585.cix,,1577,594,0,1,Wh_SF,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kids_WR,Door-std (double) [1]_210,00080586.cix,,1577,594,0,1,Wh_SF,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kids_WR,Dra_slide_5010,00080587.cix,,198,594.5,0,4,105_sf_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kids_WR,Dra_slide_4010,00080588.cix,,143,550,0,2,ply18,17,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kids_WR,Left Side Dra_slide_50 [1 2]_110,00080589.cix,,492,142.5,0,2,ply18,17,5_white,,,
+I145_UE,Kids_WR,Left Side Dra_slide_50 [1 2]_210,00080590.cix,,492,126.5,0,2,ply18,17,5_white,,,
+I145_UE,Kids_WR,Right Side Dra_slide_50 [1 2]_110,00080591.cix,,492,142.5,0,2,ply18,17,5_white,,,
+I145_UE,Kids_WR,Right Side Dra_slide_50 [1 2]_210,00080592.cix,,492,126.5,0,2,ply18,17,5_white,,,
+I145_UE,Kids_WR,Left Side Dra_slide_4010,00080593.cix,,422,89,0,2,ply18,17,5_white,,,
+I145_UE,Kids_WR,Right Side Dra_slide_4010,00080594.cix,,422,89,0,2,ply18,17,5_white,,,
+I145_UE,Kids_WR,Bottom Dra_slide_50 [1]10,00080595.cix,,530.1,491,0,2,ply_7,6,,,,
+I145_UE,Kids_WR,Bottom Dra_slide_50 [2]10,00080596.cix,,531.1,491,0,2,ply_7,6,,,,
+I145_UE,Kids_WR,Bottom Dra_slide_4010,00080597.cix,,513.6,421,0,2,ply_7,6,,,,
+I145_UE,Kids_WR,Back Dra_slide_50 [1]_110,00080598.cix,,514.1,142.5,0,1,ply18,17,5_white,,,
+I145_UE,Kids_WR,Back Dra_slide_50 [1]_210,00080599.cix,,514.1,126.5,0,1,ply18,17,5_white,,,
+I145_UE,Kids_WR,Back Dra_slide_50 [2]_110,00080600.cix,,515.1,142.5,0,1,ply18,17,5_white,,,
+I145_UE,Kids_WR,Back Dra_slide_50 [2]_210,00080601.cix,,515.1,126.5,0,1,ply18,17,5_white,,,
+I145_UE,Kids_WR,Back Dra_slide_4010,00080602.cix,,497.6,89,0,2,ply18,17,5_white,,,
+I145_UE,Kids_WR,Counter-Frontage Dra_slide_50 [1]_110,00080603.cix,,548.1,142.5,0,1,ply18,17,5_white,,,
+I145_UE,Kids_WR,Counter-Frontage Dra_slide_50 [1]_210,00080604.cix,,548.1,126.5,0,1,ply18,17,5_white,,,
+I145_UE,Kids_WR,Counter-Frontage Dra_slide_50 [2]_110,00080605.cix,,549.1,142.5,0,1,ply18,17,5_white,,,
+I145_UE,Kids_WR,Counter-Frontage Dra_slide_50 [2]_210,00080606.cix,,549.1,126.5,0,1,ply18,17,5_white,,,
+I145_UE,Kids_WR,Counter-Frontage Dra_slide_4010,00080607.cix,,531.6,89,0,2,ply18,17,5_white,,,
+I145_UE,Kids_WR,Plinth 1 [1]10,00080608.cix,,1263,110,0,1,105_sf_18,18,,,,
+I145_UE,Kit_Base_1Dr,Top11,00080609.cix,,566,510.5,0,1,ply18,17,5_white,,,
+I145_UE,Kit_Base_1Dr,Bottom11,00080610.cix,,566,510.5,0,1,ply18,17,5_white,,,
+I145_UE,Kit_Base_1Dr,Left Side11,00080611.cix,,674,591,0,1,ply18,17,5_white,5_Dado,5_white,5_white
+I145_UE,Kit_Base_1Dr,Right Side11,00080612.cix,,614,531,0,1,ply18,17,5_white,5_Dado,5_white,5_white
+I145_UE,Kit_Base_1Dr,Back11,00080613.cix,,615,586,0,1,ply_7,6,,,,
+I145_UE,Kit_Base_1Dr,Mobile Shelve [1]11,00080614.cix,,565,480.5,0,1,ply18,17,5_white,,,
+I145_UE,Kit_Base_1Dr,Door-std (single) [1]11,00080615.cix,,669,594,0,1,21023_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kit_Base_1Dr,Upper Strip 1 [1]11,00080616.cix,,584,60,0,1,L_F,19,,,,
+I145_UE,Kit_Base_3,Top12,00080617.cix,00080618.cix,1126,510,0,1,ply18,17,5_white,5_Dado,,
+I145_UE,Kit_Base_3,Bottom12,00080619.cix,00080620.cix,1126,510,0,1,ply18,17,5_white,5_Dado,,
+I145_UE,Kit_Base_3,Left Side12,00080621.cix,,614,531,0,1,ply18,17,5_white,5_Dado,5_white,5_white
+I145_UE,Kit_Base_3,Right Side12,00080622.cix,,614,531,0,1,ply18,17,5_white,5_Dado,5_white,5_white
+I145_UE,Kit_Base_3,Back12,00080623.cix,,615,1146,0,1,ply_7,6,,,,
+I145_UE,Kit_Base_3,Mobile Shelve12,00080624.cix,,553.5,480.5,0,2,ply18,17,5_white,,,
+I145_UE,Kit_Base_3,Upright 4raw [1]12,00080625.cix,,581,480.5,0,1,ply18,17,5_white,,,
+I145_UE,Kit_Base_3,Door-std (double) [1]_112,00080626.cix,,669,574,0,1,White_HG,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kit_Base_3,Door-std (double) [1]_212,00080627.cix,,669,574,0,1,21023_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kit_Base_3,Upper Strip 1 [1]12,00080628.cix,,1232,60,0,1,L_F,19,,,,
+I145_UE,Kit_base_Acc_Dr,Top13,00080629.cix,00080630.cix,1166,510.5,0,1,ply18,17,5_white,,,
+I145_UE,Kit_base_Acc_Dr,Bottom13,00080631.cix,00080632.cix,1166,510.5,0,1,ply18,17,5_white,,,
+I145_UE,Kit_base_Acc_Dr,Left Side13,00080633.cix,,614,531,0,1,ply18,17,5_white,5_Dado,5_white,5_white
+I145_UE,Kit_base_Acc_Dr,Right Side13,00080634.cix,,674,591,0,1,ply18,17,5_white,5_Dado,5_white,5_white
+I145_UE,Kit_base_Acc_Dr,Back13,00080635.cix,,615,1186,0,1,ply_7,6,,,,
+I145_UE,Kit_base_Acc_Dr,Mobile Shelve [1]13,00080636.cix,,413,480.5,0,1,ply18,17,5_white,,,
+I145_UE,Kit_base_Acc_Dr,Vertical Division [1]13,00080637.cix,00080638.cix,581,510.5,0,1,ply18,17,5_white,,,
+I145_UE,Kit_base_Acc_Dr,Vertical Division [2]13,00080639.cix,00080640.cix,581,510.5,0,1,ply18,17,5_white,,,
+I145_UE,Kit_base_Acc_Dr,Door-std (single) [1]13,00080641.cix,,669,434,0,1,21023_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kit_base_Acc_Dr,Draw_acc [1]_113,00080642.cix,,176,584,0,1,White_HG,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kit_base_Acc_Dr,Draw_acc [1]_213,00080643.cix,,165,584,0,1,White_HG,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kit_base_Acc_Dr,Draw_acc [1]_313,00080644.cix,,316,584,0,1,White_HG,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kit_base_Acc_Dr,Draw_acc [4]13,00080645.cix,,669,166,0,1,White_HG,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kit_base_Acc_Dr,Upper Strip 1 [1]13,00080646.cix,,1184,60,0,1,L_F,19,,,,
+I145_UE,Kit_base_filler,Filler14,00080647.cix,,669,66,0,2,21023_HGL_18,18,2_Colour,,2_Colour,2_Colour
+I145_UE,Kit_cor_base,Top15,00080648.cix,00080649.cix,1096,531,0,1,ply18,17,5_Colour,5_Dado,,
+I145_UE,Kit_cor_base,Bottom15,00080650.cix,00080651.cix,1096,531,0,1,ply18,17,5_Colour,5_Dado,,
+I145_UE,Kit_cor_base,Left Side15,00080652.cix,,604,531,0,1,ply18,17,5_Colour,5_Dado,5_white,5_white
+I145_UE,Kit_cor_base,Right Side15,00080653.cix,,604,531,0,1,ply18,17,5_Colour,5_Dado,5_white,5_white
+I145_UE,Kit_cor_base,Back15,00080654.cix,,591,1116,0,1,ply_7,6,,,,
+I145_UE,Kit_cor_base,Vertical Division [1]15,00080655.cix,,571,56,0,1,ply18,17,5_white,5_white,,
+I145_UE,Kit_cor_base,Double-Back 1 [1]15,00080656.cix,,571,570,0,1,ply18,17,,,,
+I145_UE,Kit_cor_base,Door-std (single) [1]15,00080657.cix,,669,528.5,0,1,21023_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kit_cor_base,Door-std (single) [2]15,00080658.cix,,669,117.5,0,1,21023_HGL_18,18,2_Colour,,2_Colour,2_Colour
+I145_UE,Kit_cor_base,Upper Strip 1 [1]15,00080659.cix,,1946,70,0,1,L_F,19,,,,
+I145_UE,Kit_Cylinder_base[1],Top16,00080660.cix,,366,79,0,1,ply18,17,5_Wenge,5_Dado,,
+I145_UE,Kit_Cylinder_base[1],Bottom16,00080661.cix,,399,581,0,1,ply18,17,5_Wenge,5_white,5_white,5_white
+I145_UE,Kit_Cylinder_base[1],Left Side_116,00080662.cix,,277.5,79,0,1,ply18,17,5_Wenge,5_Dado,5_white,
+I145_UE,Kit_Cylinder_base[1],Left Side_216,00080663.cix,,300,79,0,1,ply18,17,5_Wenge,5_Dado,,
+I145_UE,Kit_Cylinder_base[1],Right Side_116,00080664.cix,,277.5,79,0,1,ply18,17,5_Wenge,5_Dado,5_white,
+I145_UE,Kit_Cylinder_base[1],Right Side_216,00080665.cix,,300,79,0,1,ply18,17,5_Wenge,5_Dado,,
+I145_UE,Kit_Cylinder_base[1],Fixed Shelve [1]16,00080666.cix,,401,581.5,0,1,ply18,17,5_white,,,
+I145_UE,Kit_Cylinder_base[1],Door 1/bin/1.5-3 (single) [1]16,00080667.cix,,666,394,0,1,21023_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kit_Pooja,Top17,00080668.cix,,765,278,0,1,ply18,17,5_walnut,5_Dado,,
+I145_UE,Kit_Pooja,Bottom17,00080669.cix,,765,278,0,1,ply18,17,5_walnut,5_Dado,,
+I145_UE,Kit_Pooja,Left Side17,00080670.cix,,1049,299,0,1,ply18,17,5_walnut,5_Dado,5_white,5_white
+I145_UE,Kit_Pooja,Right Side17,00080671.cix,,1049,299,0,1,21023_HGL_18,18,5_walnut,5_Dado,5_white,5_white
+I145_UE,Kit_Pooja,Back17,00080672.cix,,1050,785,0,1,ply_7,6,,,,
+I145_UE,Kit_Pooja,Mobile Shelve [1]17,00080673.cix,,764,248.5,0,1,ply18,17,5_white,,,
+I145_UE,Kit_Pooja,Door-std (double) [1]_117,00080674.cix,,1044,394,0,1,21023_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kit_Pooja,Door-std (double) [1]_217,00080675.cix,,1044,394,0,1,21023_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kit_Pooja,Upper Strip 1 [1]17,00080676.cix,,800,150,0,1,21023_HGL_18,18,,,,
+I145_UE,Kit_Sink,Top18,00080677.cix,,562,74,0,1,L_F,19,5_Wenge,5_Dado,,
+I145_UE,Kit_Sink,Bottom18,00080678.cix,,562,74,0,1,L_F,19,5_Wenge,5_Dado,,
+I145_UE,Kit_Sink,Left Side18,00080679.cix,,614,74,0,1,L_F,19,5_Wenge,5_Dado,5_white,5_white
+I145_UE,Kit_Sink,Right Side18,00080680.cix,,614,74,0,1,L_F,19,5_Wenge,5_Dado,5_white,5_white
+I145_UE,Kit_Sink,Door-std (single) [1]18,00080681.cix,,669,594,0,1,21023_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kit_Sink,Upper Strip 1 [1]18,00080682.cix,,668,60,0,1,L_F,19,,,,
+I145_UE,Kit_Tall_unit,Top19,00080683.cix,00080684.cix,641.5,591,0,1,ply18,17,5_white,5_Dado,5_white,
+I145_UE,Kit_Tall_unit,Bottom19,00080685.cix,,565,510,0,1,ply18,17,5_white,5_Dado,,
+I145_UE,Kit_Tall_unit,Left Side19,00080686.cix,,1994,591,0,1,21023_HGL_18,18,5_white,5_Dado,5_white,5_white
+I145_UE,Kit_Tall_unit,Right Side19,00080687.cix,00080688.cix,1977.5,531,0,1,ply18,17,5_white,5_Dado,,5_white
+I145_UE,Kit_Tall_unit,Back19,00080689.cix,,1978,585,0,1,ply_7,6,,,,
+I145_UE,Kit_Tall_unit,Fixed Shelve [1]19,00080690.cix,,565,510.5,0,1,ply18,17,5_white,,,
+I145_UE,Kit_Tall_unit,Mobile Shelve19,00080691.cix,,564,480.5,0,3,ply18,17,5_white,,,
+I145_UE,Kit_Tall_unit,Door-std (single) [1]19,00080692.cix,,790,594,0,1,21023_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kit_Tall_unit,Door-std (single) [2]19,00080693.cix,,1194,594,0,1,21023_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kit_wall_1DrLift[1],Top20,00080694.cix,00080695.cix,765,278.5,0,1,ply18,17,5_white,,,
+I145_UE,Kit_wall_1DrLift[1],Bottom20,00080696.cix,,765,278.5,0,1,ply18,17,5_white,,,
+I145_UE,Kit_wall_1DrLift[1],Left Side20,00080697.cix,,699,299,0,1,21023_HGL_18,18,5_white,5_Dado,5_white,5_white
+I145_UE,Kit_wall_1DrLift[1],Right Side20,00080698.cix,,699,299,0,1,ply18,17,5_white,5_Dado,5_white,5_white
+I145_UE,Kit_wall_1DrLift[1],Back20,00080699.cix,,700,785,0,1,ply_7,6,,,,
+I145_UE,Kit_wall_1DrLift[1],Mobile Shelve20,00080700.cix,,764,248.5,0,2,ply18,17,5_white,,,
+I145_UE,Kit_wall_1DrLift[1],Door-std (single) [1]_120,00080701.cix,,558,658,0,1,Glass_frosted,4,,,,
+I145_UE,Kit_wall_1DrLift[1],Door-std (single) [1]_220,00080702.cix,,694,794,0,1,White_HG,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kit_wall_1DrLift[2],Top21,00080703.cix,00080704.cix,765,278.5,0,1,ply18,17,5_white,,,
+I145_UE,Kit_wall_1DrLift[2],Bottom21,00080705.cix,,765,278.5,0,1,ply18,17,5_white,,,
+I145_UE,Kit_wall_1DrLift[2],Left Side21,00080706.cix,,699,299,0,1,ply18,17,5_white,5_Dado,5_white,5_white
+I145_UE,Kit_wall_1DrLift[2],Right Side21,00080707.cix,,699,299,0,1,21023_HGL_18,18,5_white,5_Dado,5_white,5_white
+I145_UE,Kit_wall_1DrLift[2],Back21,00080708.cix,,700,785,0,1,ply_7,6,,,,
+I145_UE,Kit_wall_1DrLift[2],Mobile Shelve21,00080709.cix,,764,248.5,0,2,ply18,17,5_white,,,
+I145_UE,Kit_wall_1DrLift[2],Door-std (single) [1]_121,00080710.cix,,558,658,0,1,Glass_frosted,4,,,,
+I145_UE,Kit_wall_1DrLift[2],Door-std (single) [1]_221,00080711.cix,,694,794,0,1,White_HG,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kit_wall_2Dr,Top22,00080712.cix,00080713.cix,1181.5,278.5,0,1,ply18,17,5_white,,5_white,
+I145_UE,Kit_wall_2Dr,Bottom22,00080714.cix,00080715.cix,1181.5,278.5,0,1,ply18,17,5_white,,5_white,
+I145_UE,Kit_wall_2Dr,Left Side22,00080716.cix,,699,299,0,1,21023_HGL_18,18,5_white,5_Dado,5_white,5_white
+I145_UE,Kit_wall_2Dr,Right Side22,00080717.cix,00080718.cix,666,299,0,1,ply18,17,5_white,5_Dado,,
+I145_UE,Kit_wall_2Dr,Back22,00080719.cix,,700,1135,0,1,ply_7,6,,,,
+I145_UE,Kit_wall_2Dr,Mobile Shelve22,00080720.cix,,548,248.5,0,2,ply18,17,5_white,,,
+I145_UE,Kit_wall_2Dr,Vertical Division [1]22,00080721.cix,,666,278.5,0,1,ply18,17,5_white,,,
+I145_UE,Kit_wall_2Dr,Door-std (double) [1]_122,00080722.cix,,558,433,0,1,Glass_frosted,4,,,,
+I145_UE,Kit_wall_2Dr,Door-std (double) [1]_222,00080723.cix,,694,569,0,1,21023_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kit_wall_2Dr,Door-std (double) [1]_322,00080724.cix,,694,569,0,1,White_HG,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kit_Wall_Cor(L),Top23,00080725.cix,00080726.cix,916,278.5,0,1,ply18,17,5_white,,,
+I145_UE,Kit_Wall_Cor(L),Bottom23,00080727.cix,00080728.cix,916,278.5,0,1,ply18,17,5_white,,,
+I145_UE,Kit_Wall_Cor(L),Left Side23,00080729.cix,,699,299,0,1,ply18,17,5_white,5_Dado,5_white,5_white
+I145_UE,Kit_Wall_Cor(L),Right Side23,00080730.cix,,699,299,0,1,ply18,17,5_white,5_Dado,5_white,5_white
+I145_UE,Kit_Wall_Cor(L),Back23,00080731.cix,,700,936,0,1,ply_7,6,,,,
+I145_UE,Kit_Wall_Cor(L),Fixed Shelve [1]23,00080732.cix,,916,221.5,0,1,ply18,17,5_white,,,
+I145_UE,Kit_Wall_Cor(L),Vertical Division [1]23,00080733.cix,,666,56,0,1,ply18,17,5_white,5_white,,
+I145_UE,Kit_Wall_Cor(L),Double-Back 1 [2]23,00080734.cix,,666,325,0,1,ply18,17,,,,
+I145_UE,Kit_Wall_Cor(L),Door-std (single) [1]23,00080735.cix,,694,71,0,1,White_HG,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kit_Wall_Cor(L),Door-std (single) [2]23,00080736.cix,,694,594,0,1,21023_HGL_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Kit_wall_filler,Filler24,00080737.cix,,694,66,0,1,White_HG,18,2_Colour,,2_Colour,2_Colour
+I145_UE,MBR_Fold_table,Top25,00080738.cix,,1196,546,0,1,4858_18_twistweave,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,MBR_Loft-1,Top26,00080739.cix,,1480.5,74,0,1,L_F,19,5_Colour,5_Dado,,5_white
+I145_UE,MBR_Loft-1,Bottom26,00080740.cix,,1480.5,74,0,1,L_F,19,5_Colour,5_Dado,,5_white
+I145_UE,MBR_Loft-1,Left Side26,00080741.cix,,712,74,0,1,L_F,19,5_Colour,5_Dado,,
+I145_UE,MBR_Loft-1,Right Side26,00080742.cix,,749,74,0,1,L_F,19,5_Colour,5_Dado,5_white,5_white
+I145_UE,MBR_Loft-1,Vertical Division [1]26,00080743.cix,00080744.cix,711,74.5,0,1,L_F,19,5_white,,,
+I145_UE,MBR_Loft-1,Door-std26,00080745.cix,,693.5,477.7,0,2,4858_18_twistweave,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,MBR_Loft-1,Door 1/bin/1.5-3 (single) [2]26,00080746.cix,,45.5,1444,0,1,4858_18_twistweave,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,MBR_Loft-1,Door-std (double) [1]_126,00080747.cix,,693.5,477.7,0,1,4858_18_twistweave,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,MBR_Loft-2,Top27,00080748.cix,,1782,74,0,1,L_F,19,5_Colour,5_Dado,,
+I145_UE,MBR_Loft-2,Bottom27,00080749.cix,,1899,549,0,1,4858_18_twistweave,18,5_Colour,5_Dado,5_white,5_white
+I145_UE,MBR_Loft-2,Left Side27,00080750.cix,,731.5,74,0,1,L_F,19,5_Colour,5_Dado,5_white,
+I145_UE,MBR_Loft-2,Right Side27,00080751.cix,,731.5,74,0,1,L_F,19,5_Colour,5_Dado,5_white,
+I145_UE,MBR_Loft-2,Vertical Division [1]27,00080752.cix,,713,74.5,0,1,L_F,19,5_white,,,
+I145_UE,MBR_Loft-2,Vertical Division [2]27,00080753.cix,00080754.cix,713,74.5,0,1,L_F,19,5_white,,,
+I145_UE,MBR_Loft-2,Door-std (single) [1]27,00080755.cix,,47,1795,0,1,4858_18_twistweave,18,2_Colour,2_Colour,,2_Colour
+I145_UE,MBR_Loft-2,Door-std27,00080756.cix,,693,594.3,0,2,4858_18_twistweave,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,MBR_Loft-2,Door-std (double) [1]_227,00080757.cix,,693,594.3,0,1,4858_18_twistweave,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,MBR_Study_wall,Top28,00080758.cix,,1163,299,0,1,ply18,17,5_Wenge,5_Dado,5_white,5_white
+I145_UE,MBR_Study_wall,Bottom28,00080759.cix,,1163,299,0,1,ply18,17,5_Wenge,5_Dado,5_white,5_white
+I145_UE,MBR_Study_wall,Left Side28,00080760.cix,,750,299,0,1,4858_18_twistweave,18,5_Wenge,5_Dado,,
+I145_UE,MBR_Study_wall,Right Side28,00080761.cix,,750,299,0,1,4858_18_twistweave,18,5_Wenge,5_Dado,,
+I145_UE,MBR_Study_wall,Back28,00080762.cix,,736,1184,0,1,ply_7,6,,,,
+I145_UE,MBR_Study_wall,Mobile Shelve28,00080763.cix,,572.5,248.5,0,2,ply18,17,5_white,,,
+I145_UE,MBR_Study_wall,Vertical Division [1]28,00080764.cix,,716,278.5,0,1,ply18,17,5_Wenge,,,
+I145_UE,MBR_Study_wall,Door-std (single) [1 2]_128,00080765.cix,,618,468.5,0,2,Glass_5,5,,,,
+I145_UE,MBR_Study_wall,Door-std (single) [1]_228,00080766.cix,,744,594.5,0,1,4858_18_twistweave,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,MBR_Study_wall,Door-std (single) [2]_228,00080767.cix,,744,594.5,0,1,4858_18_twistweave,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,MBR_Wardrobe[1],Top29,00080768.cix,00080769.cix,1481.5,549,0,1,ply18,17,5_Wenge,5_Dado,,5_white
+I145_UE,MBR_Wardrobe[1],Bottom29,00080770.cix,00080771.cix,1415,528,0,1,ply18,17,5_Wenge,5_Dado,,
+I145_UE,MBR_Wardrobe[1],Left Side29,00080772.cix,00080773.cix,2082.5,549,0,1,ply18,17,5_Wenge,5_Dado,,5_white
+I145_UE,MBR_Wardrobe[1],Right Side29,00080774.cix,,2099,549,0,1,4858_18_twistweave,18,5_Wenge,5_Dado,5_white,5_white
+I145_UE,MBR_Wardrobe[1],Back29,00080775.cix,,1983,1435,0,1,ply_7,6,,,,
+I145_UE,MBR_Wardrobe[1],Fixed Shelve [1]29,00080776.cix,,941.3,528.5,0,1,ply18,17,5_white,,,
+I145_UE,MBR_Wardrobe[1],Mobile Shelve29,00080777.cix,,455.7,498.5,0,4,ply18,17,5_white,,,
+I145_UE,MBR_Wardrobe[1],Shelve 5raw [1]29,00080778.cix,,941.3,498.5,0,1,ply18,17,5_white,,,
+I145_UE,MBR_Wardrobe[1],Vertical Division [1]29,00080779.cix,00080780.cix,1956,528.5,0,1,ply18,17,5_Wenge,,,
+I145_UE,MBR_Wardrobe[1],Vertical Division [2]29,00080781.cix,00080782.cix,380,528.5,0,1,ply18,17,5_Wenge,,,
+I145_UE,MBR_Wardrobe[1],Upright 4raw [1]29,00080783.cix,00080784.cix,151.2,498.5,0,1,ply18,17,5_Wenge,,,
+I145_UE,MBR_Wardrobe[1],Upright 4raw [2]29,00080785.cix,,151.2,498.5,0,1,ply18,17,5_Wenge,,,
+I145_UE,MBR_Wardrobe[1],Upright 4raw [3]29,00080786.cix,,151.2,498.5,0,1,ply18,17,5_Wenge,,,
+I145_UE,MBR_Wardrobe[1],Door-std (single) [1]29,00080787.cix,,1984,477.7,0,1,4858_18_twistweave,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,MBR_Wardrobe[1],Door-std (double) [1]_129,00080788.cix,,1579,477.7,0,1,4858_18_twistweave,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,MBR_Wardrobe[1],Door-std (double) [1]_229,00080789.cix,,1579,477.7,0,1,4858_18_twistweave,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,MBR_Wardrobe[1],Dra_slide_5029,00080790.cix,,197,478.2,0,4,4858_18_twistweave,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,MBR_Wardrobe[1],Dra_slide_4029,00080791.cix,,144.2,438.2,0,2,ply18,17,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,MBR_Wardrobe[1],Left Side Dra_slide_50 [1 2]_129,00080792.cix,,492,132.5,0,2,ply18,17,5_white,,,
+I145_UE,MBR_Wardrobe[1],Left Side Dra_slide_50 [1 2]_229,00080793.cix,,492,124.5,0,2,ply18,17,5_white,,,
+I145_UE,MBR_Wardrobe[1],Right Side Dra_slide_50 [1 2]_129,00080794.cix,,492,132.5,0,2,ply18,17,5_white,,,
+I145_UE,MBR_Wardrobe[1],Right Side Dra_slide_50 [1 2]_229,00080795.cix,,492,124.5,0,2,ply18,17,5_white,,,
+I145_UE,MBR_Wardrobe[1],Left Side Dra_slide_4029,00080796.cix,,442,90.7,0,2,ply18,17,5_white,,,
+I145_UE,MBR_Wardrobe[1],Right Side Dra_slide_4029,00080797.cix,,442,90.7,0,2,ply18,17,5_white,,,
+I145_UE,MBR_Wardrobe[1],Bottom Dra_slide_50 [1]29,00080798.cix,,495,426.8,0,2,ply_7,6,,,,
+I145_UE,MBR_Wardrobe[1],Bottom Dra_slide_50 [2]29,00080799.cix,,495,418.8,0,2,ply_7,6,,,,
+I145_UE,MBR_Wardrobe[1],Bottom Dra_slide_4029,00080800.cix,,445,405.8,0,2,ply_7,6,,,,
+I145_UE,MBR_Wardrobe[1],Back Dra_slide_50 [1]_129,00080801.cix,,406.8,132.5,0,1,ply18,17,5_white,,,
+I145_UE,MBR_Wardrobe[1],Back Dra_slide_50 [1]_229,00080802.cix,,406.8,124.5,0,1,ply18,17,5_white,,,
+I145_UE,MBR_Wardrobe[1],Back Dra_slide_50 [2]_129,00080803.cix,,398.8,132.5,0,1,ply18,17,5_white,,,
+I145_UE,MBR_Wardrobe[1],Back Dra_slide_50 [2]_229,00080804.cix,,398.8,124.5,0,1,ply18,17,5_white,,,
+I145_UE,MBR_Wardrobe[1],Back Dra_slide_4029,00080805.cix,,385.8,90.7,0,2,ply18,17,5_white,,,
+I145_UE,MBR_Wardrobe[1],Counter-Frontage Dra_slide_50 [1]_129,00080806.cix,,440.8,132.5,0,1,ply18,17,5_white,,,
+I145_UE,MBR_Wardrobe[1],Counter-Frontage Dra_slide_50 [1]_229,00080807.cix,,440.8,124.5,0,1,ply18,17,5_white,,,
+I145_UE,MBR_Wardrobe[1],Counter-Frontage Dra_slide_50 [2]_129,00080808.cix,,432.8,132.5,0,1,ply18,17,5_white,,,
+I145_UE,MBR_Wardrobe[1],Counter-Frontage Dra_slide_50 [2]_229,00080809.cix,,432.8,124.5,0,1,ply18,17,5_white,,,
+I145_UE,MBR_Wardrobe[1],Counter-Frontage Dra_slide_4029,00080810.cix,,419.8,90.7,0,2,ply18,17,5_white,,,
+I145_UE,MBR_Wardrobe[1],Plinth 1 [1]29,00080811.cix,,1495,110,0,1,4858_18_twistweave,18,,,,
+I145_UE,Tall_filler,Filler30,00080812.cix,,1989,76,0,1,21023_HGL_18,18,2_Colour,,2_Colour,2_Colour
+I145_UE,TV_Base_3Dwr,Top31,00080813.cix,,1796,407.5,1,1,7616_SF_18,18,2_Colour,5_Dado,2_Colour,2_Colour
+I145_UE,TV_Base_3Dwr,Bottom31,00080814.cix,00080815.cix,1764,384,0,1,ply18,17,5_white,5_Dado,,
+I145_UE,TV_Base_3Dwr,Left Side31,00080816.cix,,281.5,384,1,1,7616_SF_18,18,5_white,5_Dado,,5_white
+I145_UE,TV_Base_3Dwr,Right Side31,00080817.cix,,281.5,384,1,1,7616_SF_18,18,5_white,5_Dado,,5_white
+I145_UE,TV_Base_3Dwr,Back31,00080818.cix,,285,1784,0,1,ply_7,7,,,,
+I145_UE,TV_Base_3Dwr,Vertical Division31,00080819.cix,,265,367.5,0,2,ply18,17,5_white,,,
+I145_UE,TV_Base_3Dwr,Dra_Box_dress31,00080820.cix,,276,594.8,1,2,7616_SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,TV_Base_3Dwr,Dra_Box_dress [3]31,00080821.cix,,276,594.3,1,1,7616_SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,TV_Base_3Dwr,Left Side Dra_Box_dress31,00080822.cix,,331,204.5,0,3,ply18,17,5_white,,,
+I145_UE,TV_Base_3Dwr,Right Side Dra_Box_dress31,00080823.cix,,331,204.5,0,3,ply18,17,5_white,,,
+I145_UE,TV_Base_3Dwr,Bottom Dra_Box_dress31,00080824.cix,,530.4,330,0,2,ply_7,7,,,,
+I145_UE,TV_Base_3Dwr,Bottom Dra_Box_dress [3]31,00080825.cix,,538.9,330,0,1,ply_7,7,,,,
+I145_UE,TV_Base_3Dwr,Back Dra_Box_dress31,00080826.cix,,514.4,204.5,0,2,ply18,17,5_white,,,
+I145_UE,TV_Base_3Dwr,Back Dra_Box_dress [3]31,00080827.cix,,522.9,204.5,0,1,ply18,17,5_white,,,
+I145_UE,TV_Base_3Dwr,Counter-Frontage Dra_Box_dress31,00080828.cix,,548.4,204.5,0,2,ply18,17,5_white,,,
+I145_UE,TV_Base_3Dwr,Counter-Frontage Dra_Box_dress [3]31,00080829.cix,,556.9,204.5,0,1,ply18,17,5_white,,,
+I145_UE,TV_Openshelf,Top32,00080830.cix,,1796,248,1,1,7616_SF_18,18,2_Colour,,2_Colour,2_Colour
+I145_UE,TV_Openshelf,Bottom32,00080831.cix,,596,248,1,1,7616_SF_18,18,2_Colour,,2_Colour,2_Colour
+I145_UE,TV_Openshelf,Vertical Division [1]32,00080832.cix,,200,72.5,0,1,Carve_leg,75,2_Colour,white,,
+I145_UE,TV_Openshelf[1],Top33,00080833.cix,,1796,248,1,1,7616_SF_18,18,2_Colour,,2_Colour,2_Colour
+I145_UE,TV_Panel[1],Top34,00080834.cix,,1658,54.5,0,1,L_F,19,2_Colour,5_Dado,2_Colour,2_Colour
+I145_UE,TV_Panel[1],[Left Right] Side34,00080835.cix,,1059.5,56,0,2,L_F,19,5_Colour,5_Dado,,5_white
+I145_UE,TV_Panel[1],Door-std (single) [1]34,00080836.cix,,1196,1796,1,1,7616_SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,TV_wall,Top35,00080837.cix,00080838.cix,564,299,0,1,ply18,17,0.5 mm door colour,0.5 Dado white,,
+I145_UE,TV_wall,Bottom35,00080839.cix,00080840.cix,564,299,0,1,ply18,17,0.5 mm door colour,0.5 Dado white,,
+I145_UE,TV_wall,Left Side35,00080841.cix,,1599,299,1,1,7616_SF_18,18,0.5 mm door colour,0.5 Dado white,0.5 White,0.5 White
+I145_UE,TV_wall,Right Side35,00080842.cix,,1599,299,1,1,7616_SF_18,18,0.5 mm door colour,0.5 Dado white,0.5 White,0.5 White
+I145_UE,TV_wall,Back35,00080843.cix,,1586,584,0,1,ply_7,6,,,,
+I145_UE,TV_wall,Mobile Shelve35,00080844.cix,,563,253,0,3,ply18,17,0.5 White,0.5 White,0.5 White,0.5 White
+I145_UE,TV_wall,Door-std (single) [1]_135,00080845.cix,,1468,468,0,1,Glass_5,5,,,,
+I145_UE,TV_wall,Door-std (single) [1]_235,00080846.cix,,1594,594,1,1,7616_SF_18,18,2mm door,2mm door,2mm door,2mm door
+I145_UE,Utility_cab,Top36,00080847.cix,,566,278.5,0,1,ply18,17,5_white,,,
+I145_UE,Utility_cab,Bottom36,00080848.cix,,566,278.5,0,1,ply18,17,5_white,,,
+I145_UE,Utility_cab,Left Side36,00080849.cix,,599,299,0,1,ply18,17,5_white,5_Dado,5_white,5_white
+I145_UE,Utility_cab,Right Side36,00080850.cix,,599,299,0,1,ply18,17,5_white,5_Dado,5_white,5_white
+I145_UE,Utility_cab,Back36,00080851.cix,,600,586,0,1,ply_7,6,,,,
+I145_UE,Utility_cab,Mobile Shelve [1]36,00080852.cix,,565,248.5,0,1,ply18,17,5_white,,,
+I145_UE,Utility_cab,Door-std (single) [1]36,00080853.cix,,561,594,0,1,21023_HGL_18,18,2_Colour,2_Colour,G_Profile,2_Colour
+I145_UE,Vanity_Base,Top37,00080854.cix,,799,74,0,1,L_F,19,5_Colour,5_Dado,5_white,5_white
+I145_UE,Vanity_Base,Bottom37,00080855.cix,,799,581,0,1,ply18,17,5_Colour,5_Dado,5_white,5_white
+I145_UE,Vanity_Base,Vertical Division [1]37,00080856.cix,,554,74.5,0,1,L_F,19,5_white,,,
+I145_UE,Vanity_Base,Vertical Division [2]37,00080857.cix,,554,74.5,0,1,L_F,19,5_white,,,
+I145_UE,Vanity_Base,Door-std (single) [1]37,00080858.cix,,664,55.5,1,1,7616_SF_18,18,2_Colour,,2_Colour,2_Colour
+I145_UE,Vanity_Base,Door-std (single) [2]37,00080859.cix,,664,55.5,1,1,7616_SF_18,18,,2_Colour,2_Colour,2_Colour
+I145_UE,Vanity_Base,Door-std (double) [1]_137,00080860.cix,,664,334.5,1,1,7616_SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Vanity_Base,Door-std (double) [1]_237,00080861.cix,,664,334.5,1,1,7616_SF_18,18,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Vanity_Base,Upper Strip 1 [1]37,00080862.cix,,800,80,0,1,L_F,19,,,,
+I145_UE,Vanity_mirror_75,Door-std (single) [1]_138,00080863.cix,,594,744,0,1,Miror,6,2_Colour,2_Colour,2_Colour,2_Colour
+I145_UE,Vanity_mirror_75,Door-std (single) [1]_238,00080864.cix,,594,744,0,1,Ply_OSR,18,2_Colour,2_Colour,2_Colour,2_Colour

@@ -1,0 +1,9 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-08-01 03:20:50 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2020-08-01 04:17:28 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2020-08-01 04:35:18 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2020-08-01 06:42:57 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2020-08-01 11:25:16 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2020-08-01 12:50:48 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2020-08-01 13:05:28 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - libMagickWand.so.5: cannot open shared object file: No such file or directory Unknown 0

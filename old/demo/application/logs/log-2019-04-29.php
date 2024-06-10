@@ -1,0 +1,11 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-04-29 02:36:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-04-29 02:36:32 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2019-04-29 06:23:47 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2019-04-29 11:43:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-04-29 11:43:56 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2019-04-29 11:43:58 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2019-04-29 17:57:04 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2019-04-29 18:39:23 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2019-04-29 18:39:28 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so' - /opt/cpanel/ea-php70/root/usr/lib64/php/modules/imagick.so: cannot open shared object file: No such file or directory Unknown 0

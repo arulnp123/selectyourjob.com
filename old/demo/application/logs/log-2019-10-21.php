@@ -1,0 +1,95 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-10-21 07:47:09 --> 404 Page Not Found: Public/images
+ERROR - 2019-10-21 10:08:26 --> 404 Page Not Found: Public/images
+ERROR - 2019-10-21 10:08:35 --> 404 Page Not Found: Demo/dashboard
+ERROR - 2019-10-21 10:55:08 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 10:55:08 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 10:55:08 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 10:55:08 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 10:55:08 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 10:55:08 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 10:55:08 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 10:55:08 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 10:55:08 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 10:55:08 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:24:03 --> 404 Page Not Found: Public/images
+ERROR - 2019-10-21 11:25:37 --> Severity: Notice --> Undefined index: modular /home1/pocketfurniture/public_html/demo/system/database/drivers/pdo/pdo_result.php 244
+ERROR - 2019-10-21 11:25:37 --> Severity: Warning --> Invalid argument supplied for foreach() /home1/pocketfurniture/public_html/demo/system/database/drivers/pdo/pdo_result.php 244
+ERROR - 2019-10-21 11:25:37 --> Severity: Notice --> Undefined variable: _name /home1/pocketfurniture/public_html/demo/system/database/drivers/pdo/pdo_result.php 260
+ERROR - 2019-10-21 11:25:37 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home1/pocketfurniture/public_html/demo/system/core/Exceptions.php:271) /home1/pocketfurniture/public_html/demo/system/helpers/url_helper.php 564
+ERROR - 2019-10-21 11:28:17 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:28:17 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:28:17 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:28:17 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:28:17 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:28:17 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:28:17 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:28:17 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:28:17 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:28:17 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:30:15 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:30:15 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:30:15 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:30:15 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:30:15 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:30:15 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:30:15 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:30:15 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:30:15 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:30:15 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:31:42 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:31:42 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:31:42 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:31:42 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:31:42 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:31:42 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:31:42 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:31:42 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:31:42 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:31:42 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:31:50 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:31:50 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:31:50 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:31:50 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:31:50 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:31:50 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:31:50 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:31:50 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:31:50 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:31:50 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:32:45 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:32:45 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:32:45 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:32:45 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:32:45 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:32:45 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:32:45 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:32:45 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:32:45 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:32:45 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:55:39 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:55:39 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:55:39 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:55:39 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:55:39 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:55:39 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:55:39 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:55:39 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:55:39 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 11:55:39 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 12:11:29 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 12:11:29 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 12:11:29 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 12:11:29 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 12:11:29 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 12:11:33 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 12:11:33 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 12:11:33 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 12:11:33 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 12:11:33 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 12:11:33 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 12:11:33 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 12:11:33 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 12:11:33 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29
+ERROR - 2019-10-21 12:11:33 --> Severity: Notice --> Undefined property: stdClass::$pkg_id /home1/pocketfurniture/public_html/demo/application/views/loadings/loadingtable.php 29

@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-07-06 03:56:08 --> 404 Page Not Found: Public/images
+ERROR - 2021-07-06 03:56:09 --> 404 Page Not Found: Public/images
+ERROR - 2021-07-06 04:03:16 --> 404 Page Not Found: Public/images
+ERROR - 2021-07-06 04:07:32 --> 404 Page Not Found: Public/images
+ERROR - 2021-07-06 04:13:07 --> 404 Page Not Found: Public/images
+ERROR - 2021-07-06 06:51:16 --> 404 Page Not Found: Public/images
+ERROR - 2021-07-06 06:51:39 --> 404 Page Not Found: Public/images
+ERROR - 2021-07-06 06:52:20 --> 404 Page Not Found: Public/images
+ERROR - 2021-07-06 06:54:48 --> 404 Page Not Found: Public/images
+ERROR - 2021-07-06 06:55:14 --> 404 Page Not Found: Public/images
+ERROR - 2021-07-06 06:57:10 --> 404 Page Not Found: Public/images
+ERROR - 2021-07-06 06:58:14 --> 404 Page Not Found: Public/images
+ERROR - 2021-07-06 07:02:37 --> 404 Page Not Found: Public/images
+ERROR - 2021-07-06 07:04:10 --> 404 Page Not Found: Public/images
+ERROR - 2021-07-06 07:04:32 --> 404 Page Not Found: Public/images
+ERROR - 2021-07-06 07:04:58 --> 404 Page Not Found: Public/images
+ERROR - 2021-07-06 07:05:13 --> 404 Page Not Found: Public/images
+ERROR - 2021-07-06 07:06:21 --> 404 Page Not Found: Public/images
+ERROR - 2021-07-06 07:09:14 --> 404 Page Not Found: Public/images
+ERROR - 2021-07-06 07:17:15 --> 404 Page Not Found: Public/images
+ERROR - 2021-07-06 07:18:24 --> 404 Page Not Found: Public/images
+ERROR - 2021-07-06 10:01:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-06 11:06:24 --> 404 Page Not Found: Public/images
+ERROR - 2021-07-06 14:30:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-06 19:23:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-07-06 19:23:58 --> 404 Page Not Found: Public/images
+ERROR - 2021-07-06 23:19:03 --> 404 Page Not Found: Env/index
+ERROR - 2021-07-06 23:19:04 --> 404 Page Not Found: Vendor/.env
+ERROR - 2021-07-06 23:19:04 --> 404 Page Not Found: Storage/.env
+ERROR - 2021-07-06 23:19:05 --> 404 Page Not Found: Public/.env

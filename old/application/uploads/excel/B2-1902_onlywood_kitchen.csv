@@ -1,0 +1,22 @@
+Project,Cabinets,Parts,File-1,File-2,Length,Width,Grain,Qty,Material,thickness,Edge_L-1,Edge_L2,Edge_w-1,Edge_w-2
+B2-1902_onlywood_kitchen,Kit_Island,Back1,10048479.cix,,1498.4,1048.4,1,1,RH_14611_18,18,8_colour,8_colour,8_colour,8_colour
+B2-1902_onlywood_kitchen,Kit_Island,Plinth 1 [1]1,10048490.cix,,2131.4,73.4,1,1,RH_14611_18,18,8_colour,8_colour,8_colour,8_colour
+B2-1902_onlywood_kitchen,Kit_Wall-1,Right Side5,10048531.cix,,1098.4,298.4,1,1,RH_14611_18,18,8_colour,8_Dado,8_colour,8_colour
+B2-1902_onlywood_kitchen,Kit_Wall-2,Left Side6,10048542.cix,,1098.4,298.4,1,1,RH_14611_18,18,8_colour,8_Dado,8_colour,8_colour
+B2-1902_onlywood_kitchen,Kit_Wall-2,Right Side6,10048543.cix,,1098.4,298.4,1,1,RH_14611_18,18,8_colour,8_Dado,8_colour,8_colour
+B2-1902_onlywood_kitchen,Kit_Wall-Chim,Bottom7,10048551.cix,,898.4,298.4,1,1,RH_14611_18,18,8_colour,8_Dado,8_colour,8_colour
+B2-1902_onlywood_kitchen,Kit_Wall-Fridge,Bottom9,10048574.cix,,868.4,298.4,1,1,RH_14611_18,18,8_colour,8_Dado,8_colour,8_colour
+B2-1902_onlywood_kitchen,Spicerack_1,Top10,10048585.cix,10048586.cix,684,277.2,1,1,RH_14611_18,18,2_Colour,8_Dado,,
+B2-1902_onlywood_kitchen,Spicerack_1,Bottom10,10048587.cix,10048588.cix,684,277.2,1,1,RH_14611_BSL_18,18,2_Colour,8_Dado,,
+B2-1902_onlywood_kitchen,Spicerack_1,Left Side10,10048589.cix,,198.4,277.2,1,1,RH_14611_BSL_18,18,2_Colour,8_Dado,8_colour,8_colour
+B2-1902_onlywood_kitchen,Spicerack_1,Right Side10,10048590.cix,,198.4,277.2,1,1,RH_14611_BSL_18,18,2_Colour,8_Dado,8_colour,8_colour
+B2-1902_onlywood_kitchen,Spicerack_1,Back10,10048591.cix,,164,684,1,1,RH_14611_18,18,,,,
+B2-1902_onlywood_kitchen,Spicerack_2,Top11,10048592.cix,10048593.cix,713.2,277.2,1,1,RH_14611_18,18,2_Colour,8_Dado,,8_colour
+B2-1902_onlywood_kitchen,Spicerack_2,Bottom11,10048594.cix,10048595.cix,713.2,277.2,1,1,RH_14611_BSL_18,18,2_Colour,8_Dado,,8_colour
+B2-1902_onlywood_kitchen,Spicerack_2,Right Side11,10048596.cix,,198.4,277.2,1,1,RH_14611_BSL_18,18,2_Colour,8_Dado,8_colour,8_colour
+B2-1902_onlywood_kitchen,Spicerack_2,Back11,10048597.cix,,164,713.2,1,1,RH_14611_18,18,,8_colour,,
+B2-1902_onlywood_kitchen,Spicerack_3,Top12,10048598.cix,10048599.cix,864,277.2,1,1,RH_14611_18,18,2_Colour,8_Dado,,
+B2-1902_onlywood_kitchen,Spicerack_3,Bottom12,10048600.cix,10048601.cix,864,277.2,1,1,RH_14611_BSL_18,18,2_Colour,8_Dado,,
+B2-1902_onlywood_kitchen,Spicerack_3,Left Side12,10048602.cix,,198.4,277.2,1,1,RH_14611_BSL_18,18,2_Colour,8_Dado,8_colour,8_colour
+B2-1902_onlywood_kitchen,Spicerack_3,Right Side12,10048603.cix,,198.4,277.2,1,1,RH_14611_BSL_18,18,2_Colour,8_Dado,8_colour,8_colour
+B2-1902_onlywood_kitchen,Spicerack_3,Back12,10048604.cix,,164,864,1,1,RH_14611_18,18,,,,
